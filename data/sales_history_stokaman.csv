@@ -1,0 +1,1826 @@
+date,product_id,product_name,units_sold
+2025-08-01,P01,Beras Premium 5kg,16
+2025-08-01,P02,Minyak Goreng 1L,14
+2025-08-01,P03,Gula Pasir 1kg,12
+2025-08-01,P04,Telur Ayam 1 Papan,18
+2025-08-01,P05,Mie Instan 1 Dus,27
+2025-08-02,P01,Beras Premium 5kg,18
+2025-08-02,P02,Minyak Goreng 1L,17
+2025-08-02,P03,Gula Pasir 1kg,13
+2025-08-02,P04,Telur Ayam 1 Papan,25
+2025-08-02,P05,Mie Instan 1 Dus,26
+2025-08-03,P01,Beras Premium 5kg,20
+2025-08-03,P02,Minyak Goreng 1L,17
+2025-08-03,P03,Gula Pasir 1kg,13
+2025-08-03,P04,Telur Ayam 1 Papan,20
+2025-08-03,P05,Mie Instan 1 Dus,28
+2025-08-04,P01,Beras Premium 5kg,16
+2025-08-04,P02,Minyak Goreng 1L,15
+2025-08-04,P03,Gula Pasir 1kg,11
+2025-08-04,P04,Telur Ayam 1 Papan,19
+2025-08-04,P05,Mie Instan 1 Dus,25
+2025-08-05,P01,Beras Premium 5kg,20
+2025-08-05,P02,Minyak Goreng 1L,14
+2025-08-05,P03,Gula Pasir 1kg,11
+2025-08-05,P04,Telur Ayam 1 Papan,21
+2025-08-05,P05,Mie Instan 1 Dus,22
+2025-08-06,P01,Beras Premium 5kg,20
+2025-08-06,P02,Minyak Goreng 1L,15
+2025-08-06,P03,Gula Pasir 1kg,11
+2025-08-06,P04,Telur Ayam 1 Papan,22
+2025-08-06,P05,Mie Instan 1 Dus,27
+2025-08-07,P01,Beras Premium 5kg,17
+2025-08-07,P02,Minyak Goreng 1L,16
+2025-08-07,P03,Gula Pasir 1kg,11
+2025-08-07,P04,Telur Ayam 1 Papan,21
+2025-08-07,P05,Mie Instan 1 Dus,25
+2025-08-08,P01,Beras Premium 5kg,19
+2025-08-08,P02,Minyak Goreng 1L,14
+2025-08-08,P03,Gula Pasir 1kg,12
+2025-08-08,P04,Telur Ayam 1 Papan,21
+2025-08-08,P05,Mie Instan 1 Dus,25
+2025-08-09,P01,Beras Premium 5kg,22
+2025-08-09,P02,Minyak Goreng 1L,18
+2025-08-09,P03,Gula Pasir 1kg,14
+2025-08-09,P04,Telur Ayam 1 Papan,25
+2025-08-09,P05,Mie Instan 1 Dus,29
+2025-08-10,P01,Beras Premium 5kg,22
+2025-08-10,P02,Minyak Goreng 1L,17
+2025-08-10,P03,Gula Pasir 1kg,12
+2025-08-10,P04,Telur Ayam 1 Papan,24
+2025-08-10,P05,Mie Instan 1 Dus,27
+2025-08-11,P01,Beras Premium 5kg,19
+2025-08-11,P02,Minyak Goreng 1L,17
+2025-08-11,P03,Gula Pasir 1kg,12
+2025-08-11,P04,Telur Ayam 1 Papan,18
+2025-08-11,P05,Mie Instan 1 Dus,24
+2025-08-12,P01,Beras Premium 5kg,18
+2025-08-12,P02,Minyak Goreng 1L,13
+2025-08-12,P03,Gula Pasir 1kg,12
+2025-08-12,P04,Telur Ayam 1 Papan,20
+2025-08-12,P05,Mie Instan 1 Dus,24
+2025-08-13,P01,Beras Premium 5kg,17
+2025-08-13,P02,Minyak Goreng 1L,14
+2025-08-13,P03,Gula Pasir 1kg,12
+2025-08-13,P04,Telur Ayam 1 Papan,18
+2025-08-13,P05,Mie Instan 1 Dus,24
+2025-08-14,P01,Beras Premium 5kg,17
+2025-08-14,P02,Minyak Goreng 1L,15
+2025-08-14,P03,Gula Pasir 1kg,13
+2025-08-14,P04,Telur Ayam 1 Papan,22
+2025-08-14,P05,Mie Instan 1 Dus,26
+2025-08-15,P01,Beras Premium 5kg,20
+2025-08-15,P02,Minyak Goreng 1L,17
+2025-08-15,P03,Gula Pasir 1kg,12
+2025-08-15,P04,Telur Ayam 1 Papan,19
+2025-08-15,P05,Mie Instan 1 Dus,25
+2025-08-16,P01,Beras Premium 5kg,19
+2025-08-16,P02,Minyak Goreng 1L,19
+2025-08-16,P03,Gula Pasir 1kg,14
+2025-08-16,P04,Telur Ayam 1 Papan,24
+2025-08-16,P05,Mie Instan 1 Dus,26
+2025-08-17,P01,Beras Premium 5kg,19
+2025-08-17,P02,Minyak Goreng 1L,16
+2025-08-17,P03,Gula Pasir 1kg,13
+2025-08-17,P04,Telur Ayam 1 Papan,22
+2025-08-17,P05,Mie Instan 1 Dus,27
+2025-08-18,P01,Beras Premium 5kg,18
+2025-08-18,P02,Minyak Goreng 1L,15
+2025-08-18,P03,Gula Pasir 1kg,11
+2025-08-18,P04,Telur Ayam 1 Papan,18
+2025-08-18,P05,Mie Instan 1 Dus,24
+2025-08-19,P01,Beras Premium 5kg,16
+2025-08-19,P02,Minyak Goreng 1L,15
+2025-08-19,P03,Gula Pasir 1kg,11
+2025-08-19,P04,Telur Ayam 1 Papan,20
+2025-08-19,P05,Mie Instan 1 Dus,23
+2025-08-20,P01,Beras Premium 5kg,19
+2025-08-20,P02,Minyak Goreng 1L,15
+2025-08-20,P03,Gula Pasir 1kg,13
+2025-08-20,P04,Telur Ayam 1 Papan,19
+2025-08-20,P05,Mie Instan 1 Dus,25
+2025-08-21,P01,Beras Premium 5kg,19
+2025-08-21,P02,Minyak Goreng 1L,14
+2025-08-21,P03,Gula Pasir 1kg,12
+2025-08-21,P04,Telur Ayam 1 Papan,21
+2025-08-21,P05,Mie Instan 1 Dus,28
+2025-08-22,P01,Beras Premium 5kg,20
+2025-08-22,P02,Minyak Goreng 1L,15
+2025-08-22,P03,Gula Pasir 1kg,13
+2025-08-22,P04,Telur Ayam 1 Papan,21
+2025-08-22,P05,Mie Instan 1 Dus,24
+2025-08-23,P01,Beras Premium 5kg,19
+2025-08-23,P02,Minyak Goreng 1L,16
+2025-08-23,P03,Gula Pasir 1kg,15
+2025-08-23,P04,Telur Ayam 1 Papan,21
+2025-08-23,P05,Mie Instan 1 Dus,29
+2025-08-24,P01,Beras Premium 5kg,21
+2025-08-24,P02,Minyak Goreng 1L,16
+2025-08-24,P03,Gula Pasir 1kg,14
+2025-08-24,P04,Telur Ayam 1 Papan,25
+2025-08-24,P05,Mie Instan 1 Dus,31
+2025-08-25,P01,Beras Premium 5kg,18
+2025-08-25,P02,Minyak Goreng 1L,14
+2025-08-25,P03,Gula Pasir 1kg,13
+2025-08-25,P04,Telur Ayam 1 Papan,20
+2025-08-25,P05,Mie Instan 1 Dus,26
+2025-08-26,P01,Beras Premium 5kg,19
+2025-08-26,P02,Minyak Goreng 1L,15
+2025-08-26,P03,Gula Pasir 1kg,11
+2025-08-26,P04,Telur Ayam 1 Papan,18
+2025-08-26,P05,Mie Instan 1 Dus,26
+2025-08-27,P01,Beras Premium 5kg,17
+2025-08-27,P02,Minyak Goreng 1L,16
+2025-08-27,P03,Gula Pasir 1kg,13
+2025-08-27,P04,Telur Ayam 1 Papan,22
+2025-08-27,P05,Mie Instan 1 Dus,26
+2025-08-28,P01,Beras Premium 5kg,17
+2025-08-28,P02,Minyak Goreng 1L,16
+2025-08-28,P03,Gula Pasir 1kg,11
+2025-08-28,P04,Telur Ayam 1 Papan,20
+2025-08-28,P05,Mie Instan 1 Dus,27
+2025-08-29,P01,Beras Premium 5kg,18
+2025-08-29,P02,Minyak Goreng 1L,14
+2025-08-29,P03,Gula Pasir 1kg,12
+2025-08-29,P04,Telur Ayam 1 Papan,20
+2025-08-29,P05,Mie Instan 1 Dus,24
+2025-08-30,P01,Beras Premium 5kg,23
+2025-08-30,P02,Minyak Goreng 1L,17
+2025-08-30,P03,Gula Pasir 1kg,13
+2025-08-30,P04,Telur Ayam 1 Papan,23
+2025-08-30,P05,Mie Instan 1 Dus,27
+2025-08-31,P01,Beras Premium 5kg,20
+2025-08-31,P02,Minyak Goreng 1L,17
+2025-08-31,P03,Gula Pasir 1kg,15
+2025-08-31,P04,Telur Ayam 1 Papan,21
+2025-08-31,P05,Mie Instan 1 Dus,27
+2025-09-01,P01,Beras Premium 5kg,17
+2025-09-01,P02,Minyak Goreng 1L,17
+2025-09-01,P03,Gula Pasir 1kg,13
+2025-09-01,P04,Telur Ayam 1 Papan,19
+2025-09-01,P05,Mie Instan 1 Dus,26
+2025-09-02,P01,Beras Premium 5kg,16
+2025-09-02,P02,Minyak Goreng 1L,14
+2025-09-02,P03,Gula Pasir 1kg,12
+2025-09-02,P04,Telur Ayam 1 Papan,20
+2025-09-02,P05,Mie Instan 1 Dus,28
+2025-09-03,P01,Beras Premium 5kg,19
+2025-09-03,P02,Minyak Goreng 1L,15
+2025-09-03,P03,Gula Pasir 1kg,13
+2025-09-03,P04,Telur Ayam 1 Papan,20
+2025-09-03,P05,Mie Instan 1 Dus,27
+2025-09-04,P01,Beras Premium 5kg,19
+2025-09-04,P02,Minyak Goreng 1L,14
+2025-09-04,P03,Gula Pasir 1kg,13
+2025-09-04,P04,Telur Ayam 1 Papan,20
+2025-09-04,P05,Mie Instan 1 Dus,25
+2025-09-05,P01,Beras Premium 5kg,18
+2025-09-05,P02,Minyak Goreng 1L,14
+2025-09-05,P03,Gula Pasir 1kg,12
+2025-09-05,P04,Telur Ayam 1 Papan,18
+2025-09-05,P05,Mie Instan 1 Dus,26
+2025-09-06,P01,Beras Premium 5kg,23
+2025-09-06,P02,Minyak Goreng 1L,19
+2025-09-06,P03,Gula Pasir 1kg,14
+2025-09-06,P04,Telur Ayam 1 Papan,23
+2025-09-06,P05,Mie Instan 1 Dus,30
+2025-09-07,P01,Beras Premium 5kg,19
+2025-09-07,P02,Minyak Goreng 1L,15
+2025-09-07,P03,Gula Pasir 1kg,15
+2025-09-07,P04,Telur Ayam 1 Papan,22
+2025-09-07,P05,Mie Instan 1 Dus,30
+2025-09-08,P01,Beras Premium 5kg,18
+2025-09-08,P02,Minyak Goreng 1L,15
+2025-09-08,P03,Gula Pasir 1kg,13
+2025-09-08,P04,Telur Ayam 1 Papan,19
+2025-09-08,P05,Mie Instan 1 Dus,27
+2025-09-09,P01,Beras Premium 5kg,20
+2025-09-09,P02,Minyak Goreng 1L,14
+2025-09-09,P03,Gula Pasir 1kg,13
+2025-09-09,P04,Telur Ayam 1 Papan,18
+2025-09-09,P05,Mie Instan 1 Dus,25
+2025-09-10,P01,Beras Premium 5kg,18
+2025-09-10,P02,Minyak Goreng 1L,16
+2025-09-10,P03,Gula Pasir 1kg,11
+2025-09-10,P04,Telur Ayam 1 Papan,20
+2025-09-10,P05,Mie Instan 1 Dus,24
+2025-09-11,P01,Beras Premium 5kg,20
+2025-09-11,P02,Minyak Goreng 1L,14
+2025-09-11,P03,Gula Pasir 1kg,11
+2025-09-11,P04,Telur Ayam 1 Papan,22
+2025-09-11,P05,Mie Instan 1 Dus,24
+2025-09-12,P01,Beras Premium 5kg,20
+2025-09-12,P02,Minyak Goreng 1L,13
+2025-09-12,P03,Gula Pasir 1kg,12
+2025-09-12,P04,Telur Ayam 1 Papan,18
+2025-09-12,P05,Mie Instan 1 Dus,26
+2025-09-13,P01,Beras Premium 5kg,23
+2025-09-13,P02,Minyak Goreng 1L,17
+2025-09-13,P03,Gula Pasir 1kg,14
+2025-09-13,P04,Telur Ayam 1 Papan,22
+2025-09-13,P05,Mie Instan 1 Dus,29
+2025-09-14,P01,Beras Premium 5kg,21
+2025-09-14,P02,Minyak Goreng 1L,16
+2025-09-14,P03,Gula Pasir 1kg,15
+2025-09-14,P04,Telur Ayam 1 Papan,23
+2025-09-14,P05,Mie Instan 1 Dus,32
+2025-09-15,P01,Beras Premium 5kg,17
+2025-09-15,P02,Minyak Goreng 1L,17
+2025-09-15,P03,Gula Pasir 1kg,11
+2025-09-15,P04,Telur Ayam 1 Papan,18
+2025-09-15,P05,Mie Instan 1 Dus,26
+2025-09-16,P01,Beras Premium 5kg,19
+2025-09-16,P02,Minyak Goreng 1L,15
+2025-09-16,P03,Gula Pasir 1kg,11
+2025-09-16,P04,Telur Ayam 1 Papan,23
+2025-09-16,P05,Mie Instan 1 Dus,23
+2025-09-17,P01,Beras Premium 5kg,20
+2025-09-17,P02,Minyak Goreng 1L,17
+2025-09-17,P03,Gula Pasir 1kg,11
+2025-09-17,P04,Telur Ayam 1 Papan,22
+2025-09-17,P05,Mie Instan 1 Dus,25
+2025-09-18,P01,Beras Premium 5kg,20
+2025-09-18,P02,Minyak Goreng 1L,17
+2025-09-18,P03,Gula Pasir 1kg,13
+2025-09-18,P04,Telur Ayam 1 Papan,19
+2025-09-18,P05,Mie Instan 1 Dus,26
+2025-09-19,P01,Beras Premium 5kg,20
+2025-09-19,P02,Minyak Goreng 1L,14
+2025-09-19,P03,Gula Pasir 1kg,12
+2025-09-19,P04,Telur Ayam 1 Papan,21
+2025-09-19,P05,Mie Instan 1 Dus,23
+2025-09-20,P01,Beras Premium 5kg,20
+2025-09-20,P02,Minyak Goreng 1L,16
+2025-09-20,P03,Gula Pasir 1kg,14
+2025-09-20,P04,Telur Ayam 1 Papan,23
+2025-09-20,P05,Mie Instan 1 Dus,30
+2025-09-21,P01,Beras Premium 5kg,21
+2025-09-21,P02,Minyak Goreng 1L,16
+2025-09-21,P03,Gula Pasir 1kg,12
+2025-09-21,P04,Telur Ayam 1 Papan,23
+2025-09-21,P05,Mie Instan 1 Dus,31
+2025-09-22,P01,Beras Premium 5kg,20
+2025-09-22,P02,Minyak Goreng 1L,16
+2025-09-22,P03,Gula Pasir 1kg,12
+2025-09-22,P04,Telur Ayam 1 Papan,22
+2025-09-22,P05,Mie Instan 1 Dus,25
+2025-09-23,P01,Beras Premium 5kg,17
+2025-09-23,P02,Minyak Goreng 1L,14
+2025-09-23,P03,Gula Pasir 1kg,12
+2025-09-23,P04,Telur Ayam 1 Papan,20
+2025-09-23,P05,Mie Instan 1 Dus,24
+2025-09-24,P01,Beras Premium 5kg,17
+2025-09-24,P02,Minyak Goreng 1L,17
+2025-09-24,P03,Gula Pasir 1kg,11
+2025-09-24,P04,Telur Ayam 1 Papan,22
+2025-09-24,P05,Mie Instan 1 Dus,25
+2025-09-25,P01,Beras Premium 5kg,19
+2025-09-25,P02,Minyak Goreng 1L,14
+2025-09-25,P03,Gula Pasir 1kg,12
+2025-09-25,P04,Telur Ayam 1 Papan,21
+2025-09-25,P05,Mie Instan 1 Dus,25
+2025-09-26,P01,Beras Premium 5kg,18
+2025-09-26,P02,Minyak Goreng 1L,15
+2025-09-26,P03,Gula Pasir 1kg,11
+2025-09-26,P04,Telur Ayam 1 Papan,19
+2025-09-26,P05,Mie Instan 1 Dus,24
+2025-09-27,P01,Beras Premium 5kg,19
+2025-09-27,P02,Minyak Goreng 1L,19
+2025-09-27,P03,Gula Pasir 1kg,13
+2025-09-27,P04,Telur Ayam 1 Papan,26
+2025-09-27,P05,Mie Instan 1 Dus,26
+2025-09-28,P01,Beras Premium 5kg,22
+2025-09-28,P02,Minyak Goreng 1L,18
+2025-09-28,P03,Gula Pasir 1kg,12
+2025-09-28,P04,Telur Ayam 1 Papan,26
+2025-09-28,P05,Mie Instan 1 Dus,31
+2025-09-29,P01,Beras Premium 5kg,20
+2025-09-29,P02,Minyak Goreng 1L,15
+2025-09-29,P03,Gula Pasir 1kg,12
+2025-09-29,P04,Telur Ayam 1 Papan,19
+2025-09-29,P05,Mie Instan 1 Dus,23
+2025-09-30,P01,Beras Premium 5kg,19
+2025-09-30,P02,Minyak Goreng 1L,16
+2025-09-30,P03,Gula Pasir 1kg,11
+2025-09-30,P04,Telur Ayam 1 Papan,18
+2025-09-30,P05,Mie Instan 1 Dus,24
+2025-10-01,P01,Beras Premium 5kg,17
+2025-10-01,P02,Minyak Goreng 1L,14
+2025-10-01,P03,Gula Pasir 1kg,11
+2025-10-01,P04,Telur Ayam 1 Papan,21
+2025-10-01,P05,Mie Instan 1 Dus,25
+2025-10-02,P01,Beras Premium 5kg,18
+2025-10-02,P02,Minyak Goreng 1L,15
+2025-10-02,P03,Gula Pasir 1kg,14
+2025-10-02,P04,Telur Ayam 1 Papan,20
+2025-10-02,P05,Mie Instan 1 Dus,22
+2025-10-03,P01,Beras Premium 5kg,17
+2025-10-03,P02,Minyak Goreng 1L,16
+2025-10-03,P03,Gula Pasir 1kg,13
+2025-10-03,P04,Telur Ayam 1 Papan,18
+2025-10-03,P05,Mie Instan 1 Dus,25
+2025-10-04,P01,Beras Premium 5kg,23
+2025-10-04,P02,Minyak Goreng 1L,18
+2025-10-04,P03,Gula Pasir 1kg,12
+2025-10-04,P04,Telur Ayam 1 Papan,23
+2025-10-04,P05,Mie Instan 1 Dus,28
+2025-10-05,P01,Beras Premium 5kg,19
+2025-10-05,P02,Minyak Goreng 1L,19
+2025-10-05,P03,Gula Pasir 1kg,13
+2025-10-05,P04,Telur Ayam 1 Papan,25
+2025-10-05,P05,Mie Instan 1 Dus,31
+2025-10-06,P01,Beras Premium 5kg,19
+2025-10-06,P02,Minyak Goreng 1L,15
+2025-10-06,P03,Gula Pasir 1kg,11
+2025-10-06,P04,Telur Ayam 1 Papan,21
+2025-10-06,P05,Mie Instan 1 Dus,28
+2025-10-07,P01,Beras Premium 5kg,17
+2025-10-07,P02,Minyak Goreng 1L,14
+2025-10-07,P03,Gula Pasir 1kg,12
+2025-10-07,P04,Telur Ayam 1 Papan,22
+2025-10-07,P05,Mie Instan 1 Dus,22
+2025-10-08,P01,Beras Premium 5kg,19
+2025-10-08,P02,Minyak Goreng 1L,14
+2025-10-08,P03,Gula Pasir 1kg,11
+2025-10-08,P04,Telur Ayam 1 Papan,19
+2025-10-08,P05,Mie Instan 1 Dus,25
+2025-10-09,P01,Beras Premium 5kg,20
+2025-10-09,P02,Minyak Goreng 1L,16
+2025-10-09,P03,Gula Pasir 1kg,11
+2025-10-09,P04,Telur Ayam 1 Papan,19
+2025-10-09,P05,Mie Instan 1 Dus,25
+2025-10-10,P01,Beras Premium 5kg,16
+2025-10-10,P02,Minyak Goreng 1L,16
+2025-10-10,P03,Gula Pasir 1kg,12
+2025-10-10,P04,Telur Ayam 1 Papan,22
+2025-10-10,P05,Mie Instan 1 Dus,27
+2025-10-11,P01,Beras Premium 5kg,23
+2025-10-11,P02,Minyak Goreng 1L,16
+2025-10-11,P03,Gula Pasir 1kg,14
+2025-10-11,P04,Telur Ayam 1 Papan,24
+2025-10-11,P05,Mie Instan 1 Dus,26
+2025-10-12,P01,Beras Premium 5kg,18
+2025-10-12,P02,Minyak Goreng 1L,17
+2025-10-12,P03,Gula Pasir 1kg,14
+2025-10-12,P04,Telur Ayam 1 Papan,25
+2025-10-12,P05,Mie Instan 1 Dus,31
+2025-10-13,P01,Beras Premium 5kg,16
+2025-10-13,P02,Minyak Goreng 1L,14
+2025-10-13,P03,Gula Pasir 1kg,13
+2025-10-13,P04,Telur Ayam 1 Papan,19
+2025-10-13,P05,Mie Instan 1 Dus,23
+2025-10-14,P01,Beras Premium 5kg,19
+2025-10-14,P02,Minyak Goreng 1L,16
+2025-10-14,P03,Gula Pasir 1kg,12
+2025-10-14,P04,Telur Ayam 1 Papan,22
+2025-10-14,P05,Mie Instan 1 Dus,27
+2025-10-15,P01,Beras Premium 5kg,20
+2025-10-15,P02,Minyak Goreng 1L,14
+2025-10-15,P03,Gula Pasir 1kg,12
+2025-10-15,P04,Telur Ayam 1 Papan,23
+2025-10-15,P05,Mie Instan 1 Dus,25
+2025-10-16,P01,Beras Premium 5kg,19
+2025-10-16,P02,Minyak Goreng 1L,16
+2025-10-16,P03,Gula Pasir 1kg,13
+2025-10-16,P04,Telur Ayam 1 Papan,21
+2025-10-16,P05,Mie Instan 1 Dus,24
+2025-10-17,P01,Beras Premium 5kg,19
+2025-10-17,P02,Minyak Goreng 1L,13
+2025-10-17,P03,Gula Pasir 1kg,12
+2025-10-17,P04,Telur Ayam 1 Papan,22
+2025-10-17,P05,Mie Instan 1 Dus,26
+2025-10-18,P01,Beras Premium 5kg,19
+2025-10-18,P02,Minyak Goreng 1L,18
+2025-10-18,P03,Gula Pasir 1kg,14
+2025-10-18,P04,Telur Ayam 1 Papan,23
+2025-10-18,P05,Mie Instan 1 Dus,26
+2025-10-19,P01,Beras Premium 5kg,21
+2025-10-19,P02,Minyak Goreng 1L,19
+2025-10-19,P03,Gula Pasir 1kg,13
+2025-10-19,P04,Telur Ayam 1 Papan,24
+2025-10-19,P05,Mie Instan 1 Dus,26
+2025-10-20,P01,Beras Premium 5kg,17
+2025-10-20,P02,Minyak Goreng 1L,15
+2025-10-20,P03,Gula Pasir 1kg,13
+2025-10-20,P04,Telur Ayam 1 Papan,19
+2025-10-20,P05,Mie Instan 1 Dus,28
+2025-10-21,P01,Beras Premium 5kg,20
+2025-10-21,P02,Minyak Goreng 1L,14
+2025-10-21,P03,Gula Pasir 1kg,11
+2025-10-21,P04,Telur Ayam 1 Papan,21
+2025-10-21,P05,Mie Instan 1 Dus,27
+2025-10-22,P01,Beras Premium 5kg,20
+2025-10-22,P02,Minyak Goreng 1L,16
+2025-10-22,P03,Gula Pasir 1kg,13
+2025-10-22,P04,Telur Ayam 1 Papan,20
+2025-10-22,P05,Mie Instan 1 Dus,23
+2025-10-23,P01,Beras Premium 5kg,20
+2025-10-23,P02,Minyak Goreng 1L,16
+2025-10-23,P03,Gula Pasir 1kg,11
+2025-10-23,P04,Telur Ayam 1 Papan,22
+2025-10-23,P05,Mie Instan 1 Dus,23
+2025-10-24,P01,Beras Premium 5kg,16
+2025-10-24,P02,Minyak Goreng 1L,14
+2025-10-24,P03,Gula Pasir 1kg,11
+2025-10-24,P04,Telur Ayam 1 Papan,20
+2025-10-24,P05,Mie Instan 1 Dus,26
+2025-10-25,P01,Beras Premium 5kg,21
+2025-10-25,P02,Minyak Goreng 1L,18
+2025-10-25,P03,Gula Pasir 1kg,13
+2025-10-25,P04,Telur Ayam 1 Papan,24
+2025-10-25,P05,Mie Instan 1 Dus,32
+2025-10-26,P01,Beras Premium 5kg,20
+2025-10-26,P02,Minyak Goreng 1L,19
+2025-10-26,P03,Gula Pasir 1kg,14
+2025-10-26,P04,Telur Ayam 1 Papan,25
+2025-10-26,P05,Mie Instan 1 Dus,30
+2025-10-27,P01,Beras Premium 5kg,18
+2025-10-27,P02,Minyak Goreng 1L,14
+2025-10-27,P03,Gula Pasir 1kg,11
+2025-10-27,P04,Telur Ayam 1 Papan,18
+2025-10-27,P05,Mie Instan 1 Dus,23
+2025-10-28,P01,Beras Premium 5kg,19
+2025-10-28,P02,Minyak Goreng 1L,16
+2025-10-28,P03,Gula Pasir 1kg,13
+2025-10-28,P04,Telur Ayam 1 Papan,22
+2025-10-28,P05,Mie Instan 1 Dus,25
+2025-10-29,P01,Beras Premium 5kg,19
+2025-10-29,P02,Minyak Goreng 1L,16
+2025-10-29,P03,Gula Pasir 1kg,11
+2025-10-29,P04,Telur Ayam 1 Papan,18
+2025-10-29,P05,Mie Instan 1 Dus,24
+2025-10-30,P01,Beras Premium 5kg,20
+2025-10-30,P02,Minyak Goreng 1L,16
+2025-10-30,P03,Gula Pasir 1kg,11
+2025-10-30,P04,Telur Ayam 1 Papan,22
+2025-10-30,P05,Mie Instan 1 Dus,23
+2025-10-31,P01,Beras Premium 5kg,17
+2025-10-31,P02,Minyak Goreng 1L,14
+2025-10-31,P03,Gula Pasir 1kg,13
+2025-10-31,P04,Telur Ayam 1 Papan,22
+2025-10-31,P05,Mie Instan 1 Dus,23
+2025-11-01,P01,Beras Premium 5kg,22
+2025-11-01,P02,Minyak Goreng 1L,22
+2025-11-01,P03,Gula Pasir 1kg,16
+2025-11-01,P04,Telur Ayam 1 Papan,28
+2025-11-01,P05,Mie Instan 1 Dus,36
+2025-11-02,P01,Beras Premium 5kg,25
+2025-11-02,P02,Minyak Goreng 1L,19
+2025-11-02,P03,Gula Pasir 1kg,16
+2025-11-02,P04,Telur Ayam 1 Papan,28
+2025-11-02,P05,Mie Instan 1 Dus,37
+2025-11-03,P01,Beras Premium 5kg,21
+2025-11-03,P02,Minyak Goreng 1L,16
+2025-11-03,P03,Gula Pasir 1kg,13
+2025-11-03,P04,Telur Ayam 1 Papan,23
+2025-11-03,P05,Mie Instan 1 Dus,33
+2025-11-04,P01,Beras Premium 5kg,21
+2025-11-04,P02,Minyak Goreng 1L,18
+2025-11-04,P03,Gula Pasir 1kg,14
+2025-11-04,P04,Telur Ayam 1 Papan,26
+2025-11-04,P05,Mie Instan 1 Dus,32
+2025-11-05,P01,Beras Premium 5kg,20
+2025-11-05,P02,Minyak Goreng 1L,19
+2025-11-05,P03,Gula Pasir 1kg,15
+2025-11-05,P04,Telur Ayam 1 Papan,26
+2025-11-05,P05,Mie Instan 1 Dus,27
+2025-11-06,P01,Beras Premium 5kg,22
+2025-11-06,P02,Minyak Goreng 1L,17
+2025-11-06,P03,Gula Pasir 1kg,15
+2025-11-06,P04,Telur Ayam 1 Papan,26
+2025-11-06,P05,Mie Instan 1 Dus,29
+2025-11-07,P01,Beras Premium 5kg,22
+2025-11-07,P02,Minyak Goreng 1L,17
+2025-11-07,P03,Gula Pasir 1kg,16
+2025-11-07,P04,Telur Ayam 1 Papan,26
+2025-11-07,P05,Mie Instan 1 Dus,27
+2025-11-08,P01,Beras Premium 5kg,22
+2025-11-08,P02,Minyak Goreng 1L,21
+2025-11-08,P03,Gula Pasir 1kg,16
+2025-11-08,P04,Telur Ayam 1 Papan,24
+2025-11-08,P05,Mie Instan 1 Dus,36
+2025-11-09,P01,Beras Premium 5kg,23
+2025-11-09,P02,Minyak Goreng 1L,21
+2025-11-09,P03,Gula Pasir 1kg,15
+2025-11-09,P04,Telur Ayam 1 Papan,29
+2025-11-09,P05,Mie Instan 1 Dus,37
+2025-11-10,P01,Beras Premium 5kg,23
+2025-11-10,P02,Minyak Goreng 1L,20
+2025-11-10,P03,Gula Pasir 1kg,15
+2025-11-10,P04,Telur Ayam 1 Papan,23
+2025-11-10,P05,Mie Instan 1 Dus,28
+2025-11-11,P01,Beras Premium 5kg,22
+2025-11-11,P02,Minyak Goreng 1L,20
+2025-11-11,P03,Gula Pasir 1kg,15
+2025-11-11,P04,Telur Ayam 1 Papan,22
+2025-11-11,P05,Mie Instan 1 Dus,27
+2025-11-12,P01,Beras Premium 5kg,20
+2025-11-12,P02,Minyak Goreng 1L,19
+2025-11-12,P03,Gula Pasir 1kg,13
+2025-11-12,P04,Telur Ayam 1 Papan,25
+2025-11-12,P05,Mie Instan 1 Dus,31
+2025-11-13,P01,Beras Premium 5kg,21
+2025-11-13,P02,Minyak Goreng 1L,18
+2025-11-13,P03,Gula Pasir 1kg,14
+2025-11-13,P04,Telur Ayam 1 Papan,23
+2025-11-13,P05,Mie Instan 1 Dus,28
+2025-11-14,P01,Beras Premium 5kg,22
+2025-11-14,P02,Minyak Goreng 1L,19
+2025-11-14,P03,Gula Pasir 1kg,15
+2025-11-14,P04,Telur Ayam 1 Papan,27
+2025-11-14,P05,Mie Instan 1 Dus,33
+2025-11-15,P01,Beras Premium 5kg,27
+2025-11-15,P02,Minyak Goreng 1L,21
+2025-11-15,P03,Gula Pasir 1kg,15
+2025-11-15,P04,Telur Ayam 1 Papan,29
+2025-11-15,P05,Mie Instan 1 Dus,38
+2025-11-16,P01,Beras Premium 5kg,25
+2025-11-16,P02,Minyak Goreng 1L,20
+2025-11-16,P03,Gula Pasir 1kg,17
+2025-11-16,P04,Telur Ayam 1 Papan,28
+2025-11-16,P05,Mie Instan 1 Dus,37
+2025-11-17,P01,Beras Premium 5kg,22
+2025-11-17,P02,Minyak Goreng 1L,17
+2025-11-17,P03,Gula Pasir 1kg,15
+2025-11-17,P04,Telur Ayam 1 Papan,24
+2025-11-17,P05,Mie Instan 1 Dus,31
+2025-11-18,P01,Beras Premium 5kg,21
+2025-11-18,P02,Minyak Goreng 1L,18
+2025-11-18,P03,Gula Pasir 1kg,15
+2025-11-18,P04,Telur Ayam 1 Papan,25
+2025-11-18,P05,Mie Instan 1 Dus,32
+2025-11-19,P01,Beras Premium 5kg,21
+2025-11-19,P02,Minyak Goreng 1L,17
+2025-11-19,P03,Gula Pasir 1kg,14
+2025-11-19,P04,Telur Ayam 1 Papan,25
+2025-11-19,P05,Mie Instan 1 Dus,30
+2025-11-20,P01,Beras Premium 5kg,21
+2025-11-20,P02,Minyak Goreng 1L,18
+2025-11-20,P03,Gula Pasir 1kg,13
+2025-11-20,P04,Telur Ayam 1 Papan,22
+2025-11-20,P05,Mie Instan 1 Dus,31
+2025-11-21,P01,Beras Premium 5kg,19
+2025-11-21,P02,Minyak Goreng 1L,18
+2025-11-21,P03,Gula Pasir 1kg,16
+2025-11-21,P04,Telur Ayam 1 Papan,24
+2025-11-21,P05,Mie Instan 1 Dus,32
+2025-11-22,P01,Beras Premium 5kg,26
+2025-11-22,P02,Minyak Goreng 1L,21
+2025-11-22,P03,Gula Pasir 1kg,17
+2025-11-22,P04,Telur Ayam 1 Papan,26
+2025-11-22,P05,Mie Instan 1 Dus,36
+2025-11-23,P01,Beras Premium 5kg,25
+2025-11-23,P02,Minyak Goreng 1L,20
+2025-11-23,P03,Gula Pasir 1kg,18
+2025-11-23,P04,Telur Ayam 1 Papan,29
+2025-11-23,P05,Mie Instan 1 Dus,34
+2025-11-24,P01,Beras Premium 5kg,24
+2025-11-24,P02,Minyak Goreng 1L,19
+2025-11-24,P03,Gula Pasir 1kg,16
+2025-11-24,P04,Telur Ayam 1 Papan,23
+2025-11-24,P05,Mie Instan 1 Dus,30
+2025-11-25,P01,Beras Premium 5kg,20
+2025-11-25,P02,Minyak Goreng 1L,19
+2025-11-25,P03,Gula Pasir 1kg,16
+2025-11-25,P04,Telur Ayam 1 Papan,25
+2025-11-25,P05,Mie Instan 1 Dus,32
+2025-11-26,P01,Beras Premium 5kg,20
+2025-11-26,P02,Minyak Goreng 1L,20
+2025-11-26,P03,Gula Pasir 1kg,13
+2025-11-26,P04,Telur Ayam 1 Papan,26
+2025-11-26,P05,Mie Instan 1 Dus,28
+2025-11-27,P01,Beras Premium 5kg,23
+2025-11-27,P02,Minyak Goreng 1L,19
+2025-11-27,P03,Gula Pasir 1kg,13
+2025-11-27,P04,Telur Ayam 1 Papan,24
+2025-11-27,P05,Mie Instan 1 Dus,28
+2025-11-28,P01,Beras Premium 5kg,24
+2025-11-28,P02,Minyak Goreng 1L,17
+2025-11-28,P03,Gula Pasir 1kg,16
+2025-11-28,P04,Telur Ayam 1 Papan,24
+2025-11-28,P05,Mie Instan 1 Dus,27
+2025-11-29,P01,Beras Premium 5kg,23
+2025-11-29,P02,Minyak Goreng 1L,20
+2025-11-29,P03,Gula Pasir 1kg,17
+2025-11-29,P04,Telur Ayam 1 Papan,29
+2025-11-29,P05,Mie Instan 1 Dus,32
+2025-11-30,P01,Beras Premium 5kg,24
+2025-11-30,P02,Minyak Goreng 1L,22
+2025-11-30,P03,Gula Pasir 1kg,16
+2025-11-30,P04,Telur Ayam 1 Papan,26
+2025-11-30,P05,Mie Instan 1 Dus,36
+2025-12-01,P01,Beras Premium 5kg,24
+2025-12-01,P02,Minyak Goreng 1L,19
+2025-12-01,P03,Gula Pasir 1kg,16
+2025-12-01,P04,Telur Ayam 1 Papan,24
+2025-12-01,P05,Mie Instan 1 Dus,27
+2025-12-02,P01,Beras Premium 5kg,19
+2025-12-02,P02,Minyak Goreng 1L,20
+2025-12-02,P03,Gula Pasir 1kg,14
+2025-12-02,P04,Telur Ayam 1 Papan,26
+2025-12-02,P05,Mie Instan 1 Dus,33
+2025-12-03,P01,Beras Premium 5kg,22
+2025-12-03,P02,Minyak Goreng 1L,19
+2025-12-03,P03,Gula Pasir 1kg,15
+2025-12-03,P04,Telur Ayam 1 Papan,25
+2025-12-03,P05,Mie Instan 1 Dus,32
+2025-12-04,P01,Beras Premium 5kg,23
+2025-12-04,P02,Minyak Goreng 1L,19
+2025-12-04,P03,Gula Pasir 1kg,13
+2025-12-04,P04,Telur Ayam 1 Papan,22
+2025-12-04,P05,Mie Instan 1 Dus,30
+2025-12-05,P01,Beras Premium 5kg,23
+2025-12-05,P02,Minyak Goreng 1L,20
+2025-12-05,P03,Gula Pasir 1kg,14
+2025-12-05,P04,Telur Ayam 1 Papan,26
+2025-12-05,P05,Mie Instan 1 Dus,29
+2025-12-06,P01,Beras Premium 5kg,26
+2025-12-06,P02,Minyak Goreng 1L,19
+2025-12-06,P03,Gula Pasir 1kg,18
+2025-12-06,P04,Telur Ayam 1 Papan,27
+2025-12-06,P05,Mie Instan 1 Dus,33
+2025-12-07,P01,Beras Premium 5kg,22
+2025-12-07,P02,Minyak Goreng 1L,19
+2025-12-07,P03,Gula Pasir 1kg,15
+2025-12-07,P04,Telur Ayam 1 Papan,28
+2025-12-07,P05,Mie Instan 1 Dus,39
+2025-12-08,P01,Beras Premium 5kg,19
+2025-12-08,P02,Minyak Goreng 1L,18
+2025-12-08,P03,Gula Pasir 1kg,14
+2025-12-08,P04,Telur Ayam 1 Papan,25
+2025-12-08,P05,Mie Instan 1 Dus,27
+2025-12-09,P01,Beras Premium 5kg,20
+2025-12-09,P02,Minyak Goreng 1L,17
+2025-12-09,P03,Gula Pasir 1kg,14
+2025-12-09,P04,Telur Ayam 1 Papan,24
+2025-12-09,P05,Mie Instan 1 Dus,30
+2025-12-10,P01,Beras Premium 5kg,21
+2025-12-10,P02,Minyak Goreng 1L,17
+2025-12-10,P03,Gula Pasir 1kg,16
+2025-12-10,P04,Telur Ayam 1 Papan,22
+2025-12-10,P05,Mie Instan 1 Dus,28
+2025-12-11,P01,Beras Premium 5kg,23
+2025-12-11,P02,Minyak Goreng 1L,18
+2025-12-11,P03,Gula Pasir 1kg,13
+2025-12-11,P04,Telur Ayam 1 Papan,26
+2025-12-11,P05,Mie Instan 1 Dus,30
+2025-12-12,P01,Beras Premium 5kg,22
+2025-12-12,P02,Minyak Goreng 1L,20
+2025-12-12,P03,Gula Pasir 1kg,16
+2025-12-12,P04,Telur Ayam 1 Papan,24
+2025-12-12,P05,Mie Instan 1 Dus,30
+2025-12-13,P01,Beras Premium 5kg,22
+2025-12-13,P02,Minyak Goreng 1L,19
+2025-12-13,P03,Gula Pasir 1kg,18
+2025-12-13,P04,Telur Ayam 1 Papan,31
+2025-12-13,P05,Mie Instan 1 Dus,34
+2025-12-14,P01,Beras Premium 5kg,27
+2025-12-14,P02,Minyak Goreng 1L,22
+2025-12-14,P03,Gula Pasir 1kg,16
+2025-12-14,P04,Telur Ayam 1 Papan,25
+2025-12-14,P05,Mie Instan 1 Dus,36
+2025-12-15,P01,Beras Premium 5kg,20
+2025-12-15,P02,Minyak Goreng 1L,18
+2025-12-15,P03,Gula Pasir 1kg,14
+2025-12-15,P04,Telur Ayam 1 Papan,21
+2025-12-15,P05,Mie Instan 1 Dus,28
+2025-12-16,P01,Beras Premium 5kg,21
+2025-12-16,P02,Minyak Goreng 1L,19
+2025-12-16,P03,Gula Pasir 1kg,13
+2025-12-16,P04,Telur Ayam 1 Papan,25
+2025-12-16,P05,Mie Instan 1 Dus,29
+2025-12-17,P01,Beras Premium 5kg,22
+2025-12-17,P02,Minyak Goreng 1L,20
+2025-12-17,P03,Gula Pasir 1kg,15
+2025-12-17,P04,Telur Ayam 1 Papan,26
+2025-12-17,P05,Mie Instan 1 Dus,28
+2025-12-18,P01,Beras Premium 5kg,20
+2025-12-18,P02,Minyak Goreng 1L,18
+2025-12-18,P03,Gula Pasir 1kg,14
+2025-12-18,P04,Telur Ayam 1 Papan,23
+2025-12-18,P05,Mie Instan 1 Dus,32
+2025-12-19,P01,Beras Premium 5kg,20
+2025-12-19,P02,Minyak Goreng 1L,18
+2025-12-19,P03,Gula Pasir 1kg,14
+2025-12-19,P04,Telur Ayam 1 Papan,25
+2025-12-19,P05,Mie Instan 1 Dus,30
+2025-12-20,P01,Beras Premium 5kg,27
+2025-12-20,P02,Minyak Goreng 1L,21
+2025-12-20,P03,Gula Pasir 1kg,18
+2025-12-20,P04,Telur Ayam 1 Papan,25
+2025-12-20,P05,Mie Instan 1 Dus,34
+2025-12-21,P01,Beras Premium 5kg,25
+2025-12-21,P02,Minyak Goreng 1L,19
+2025-12-21,P03,Gula Pasir 1kg,18
+2025-12-21,P04,Telur Ayam 1 Papan,30
+2025-12-21,P05,Mie Instan 1 Dus,34
+2025-12-22,P01,Beras Premium 5kg,22
+2025-12-22,P02,Minyak Goreng 1L,18
+2025-12-22,P03,Gula Pasir 1kg,14
+2025-12-22,P04,Telur Ayam 1 Papan,22
+2025-12-22,P05,Mie Instan 1 Dus,32
+2025-12-23,P01,Beras Premium 5kg,23
+2025-12-23,P02,Minyak Goreng 1L,18
+2025-12-23,P03,Gula Pasir 1kg,15
+2025-12-23,P04,Telur Ayam 1 Papan,25
+2025-12-23,P05,Mie Instan 1 Dus,32
+2025-12-24,P01,Beras Premium 5kg,20
+2025-12-24,P02,Minyak Goreng 1L,18
+2025-12-24,P03,Gula Pasir 1kg,16
+2025-12-24,P04,Telur Ayam 1 Papan,24
+2025-12-24,P05,Mie Instan 1 Dus,32
+2025-12-25,P01,Beras Premium 5kg,20
+2025-12-25,P02,Minyak Goreng 1L,18
+2025-12-25,P03,Gula Pasir 1kg,13
+2025-12-25,P04,Telur Ayam 1 Papan,24
+2025-12-25,P05,Mie Instan 1 Dus,31
+2025-12-26,P01,Beras Premium 5kg,20
+2025-12-26,P02,Minyak Goreng 1L,17
+2025-12-26,P03,Gula Pasir 1kg,15
+2025-12-26,P04,Telur Ayam 1 Papan,22
+2025-12-26,P05,Mie Instan 1 Dus,34
+2025-12-27,P01,Beras Premium 5kg,27
+2025-12-27,P02,Minyak Goreng 1L,20
+2025-12-27,P03,Gula Pasir 1kg,15
+2025-12-27,P04,Telur Ayam 1 Papan,26
+2025-12-27,P05,Mie Instan 1 Dus,33
+2025-12-28,P01,Beras Premium 5kg,27
+2025-12-28,P02,Minyak Goreng 1L,20
+2025-12-28,P03,Gula Pasir 1kg,17
+2025-12-28,P04,Telur Ayam 1 Papan,25
+2025-12-28,P05,Mie Instan 1 Dus,38
+2025-12-29,P01,Beras Premium 5kg,24
+2025-12-29,P02,Minyak Goreng 1L,19
+2025-12-29,P03,Gula Pasir 1kg,15
+2025-12-29,P04,Telur Ayam 1 Papan,21
+2025-12-29,P05,Mie Instan 1 Dus,28
+2025-12-30,P01,Beras Premium 5kg,21
+2025-12-30,P02,Minyak Goreng 1L,19
+2025-12-30,P03,Gula Pasir 1kg,13
+2025-12-30,P04,Telur Ayam 1 Papan,22
+2025-12-30,P05,Mie Instan 1 Dus,28
+2025-12-31,P01,Beras Premium 5kg,21
+2025-12-31,P02,Minyak Goreng 1L,16
+2025-12-31,P03,Gula Pasir 1kg,16
+2025-12-31,P04,Telur Ayam 1 Papan,24
+2025-12-31,P05,Mie Instan 1 Dus,27
+2026-01-01,P01,Beras Premium 5kg,18
+2026-01-01,P02,Minyak Goreng 1L,13
+2026-01-01,P03,Gula Pasir 1kg,12
+2026-01-01,P04,Telur Ayam 1 Papan,20
+2026-01-01,P05,Mie Instan 1 Dus,24
+2026-01-02,P01,Beras Premium 5kg,16
+2026-01-02,P02,Minyak Goreng 1L,15
+2026-01-02,P03,Gula Pasir 1kg,11
+2026-01-02,P04,Telur Ayam 1 Papan,21
+2026-01-02,P05,Mie Instan 1 Dus,25
+2026-01-03,P01,Beras Premium 5kg,21
+2026-01-03,P02,Minyak Goreng 1L,19
+2026-01-03,P03,Gula Pasir 1kg,14
+2026-01-03,P04,Telur Ayam 1 Papan,21
+2026-01-03,P05,Mie Instan 1 Dus,28
+2026-01-04,P01,Beras Premium 5kg,21
+2026-01-04,P02,Minyak Goreng 1L,18
+2026-01-04,P03,Gula Pasir 1kg,12
+2026-01-04,P04,Telur Ayam 1 Papan,21
+2026-01-04,P05,Mie Instan 1 Dus,30
+2026-01-05,P01,Beras Premium 5kg,19
+2026-01-05,P02,Minyak Goreng 1L,15
+2026-01-05,P03,Gula Pasir 1kg,13
+2026-01-05,P04,Telur Ayam 1 Papan,20
+2026-01-05,P05,Mie Instan 1 Dus,27
+2026-01-06,P01,Beras Premium 5kg,16
+2026-01-06,P02,Minyak Goreng 1L,15
+2026-01-06,P03,Gula Pasir 1kg,11
+2026-01-06,P04,Telur Ayam 1 Papan,21
+2026-01-06,P05,Mie Instan 1 Dus,22
+2026-01-07,P01,Beras Premium 5kg,17
+2026-01-07,P02,Minyak Goreng 1L,13
+2026-01-07,P03,Gula Pasir 1kg,10
+2026-01-07,P04,Telur Ayam 1 Papan,21
+2026-01-07,P05,Mie Instan 1 Dus,25
+2026-01-08,P01,Beras Premium 5kg,18
+2026-01-08,P02,Minyak Goreng 1L,14
+2026-01-08,P03,Gula Pasir 1kg,12
+2026-01-08,P04,Telur Ayam 1 Papan,18
+2026-01-08,P05,Mie Instan 1 Dus,25
+2026-01-09,P01,Beras Premium 5kg,19
+2026-01-09,P02,Minyak Goreng 1L,16
+2026-01-09,P03,Gula Pasir 1kg,11
+2026-01-09,P04,Telur Ayam 1 Papan,18
+2026-01-09,P05,Mie Instan 1 Dus,25
+2026-01-10,P01,Beras Premium 5kg,19
+2026-01-10,P02,Minyak Goreng 1L,19
+2026-01-10,P03,Gula Pasir 1kg,14
+2026-01-10,P04,Telur Ayam 1 Papan,25
+2026-01-10,P05,Mie Instan 1 Dus,25
+2026-01-11,P01,Beras Premium 5kg,21
+2026-01-11,P02,Minyak Goreng 1L,15
+2026-01-11,P03,Gula Pasir 1kg,14
+2026-01-11,P04,Telur Ayam 1 Papan,25
+2026-01-11,P05,Mie Instan 1 Dus,25
+2026-01-12,P01,Beras Premium 5kg,17
+2026-01-12,P02,Minyak Goreng 1L,15
+2026-01-12,P03,Gula Pasir 1kg,12
+2026-01-12,P04,Telur Ayam 1 Papan,19
+2026-01-12,P05,Mie Instan 1 Dus,26
+2026-01-13,P01,Beras Premium 5kg,18
+2026-01-13,P02,Minyak Goreng 1L,13
+2026-01-13,P03,Gula Pasir 1kg,11
+2026-01-13,P04,Telur Ayam 1 Papan,19
+2026-01-13,P05,Mie Instan 1 Dus,26
+2026-01-14,P01,Beras Premium 5kg,17
+2026-01-14,P02,Minyak Goreng 1L,14
+2026-01-14,P03,Gula Pasir 1kg,12
+2026-01-14,P04,Telur Ayam 1 Papan,19
+2026-01-14,P05,Mie Instan 1 Dus,24
+2026-01-15,P01,Beras Premium 5kg,19
+2026-01-15,P02,Minyak Goreng 1L,14
+2026-01-15,P03,Gula Pasir 1kg,11
+2026-01-15,P04,Telur Ayam 1 Papan,22
+2026-01-15,P05,Mie Instan 1 Dus,23
+2026-01-16,P01,Beras Premium 5kg,18
+2026-01-16,P02,Minyak Goreng 1L,13
+2026-01-16,P03,Gula Pasir 1kg,10
+2026-01-16,P04,Telur Ayam 1 Papan,21
+2026-01-16,P05,Mie Instan 1 Dus,24
+2026-01-17,P01,Beras Premium 5kg,20
+2026-01-17,P02,Minyak Goreng 1L,16
+2026-01-17,P03,Gula Pasir 1kg,12
+2026-01-17,P04,Telur Ayam 1 Papan,21
+2026-01-17,P05,Mie Instan 1 Dus,29
+2026-01-18,P01,Beras Premium 5kg,19
+2026-01-18,P02,Minyak Goreng 1L,17
+2026-01-18,P03,Gula Pasir 1kg,12
+2026-01-18,P04,Telur Ayam 1 Papan,24
+2026-01-18,P05,Mie Instan 1 Dus,28
+2026-01-19,P01,Beras Premium 5kg,19
+2026-01-19,P02,Minyak Goreng 1L,14
+2026-01-19,P03,Gula Pasir 1kg,11
+2026-01-19,P04,Telur Ayam 1 Papan,18
+2026-01-19,P05,Mie Instan 1 Dus,25
+2026-01-20,P01,Beras Premium 5kg,19
+2026-01-20,P02,Minyak Goreng 1L,16
+2026-01-20,P03,Gula Pasir 1kg,11
+2026-01-20,P04,Telur Ayam 1 Papan,20
+2026-01-20,P05,Mie Instan 1 Dus,26
+2026-01-21,P01,Beras Premium 5kg,15
+2026-01-21,P02,Minyak Goreng 1L,16
+2026-01-21,P03,Gula Pasir 1kg,13
+2026-01-21,P04,Telur Ayam 1 Papan,18
+2026-01-21,P05,Mie Instan 1 Dus,25
+2026-01-22,P01,Beras Premium 5kg,16
+2026-01-22,P02,Minyak Goreng 1L,15
+2026-01-22,P03,Gula Pasir 1kg,12
+2026-01-22,P04,Telur Ayam 1 Papan,21
+2026-01-22,P05,Mie Instan 1 Dus,23
+2026-01-23,P01,Beras Premium 5kg,18
+2026-01-23,P02,Minyak Goreng 1L,15
+2026-01-23,P03,Gula Pasir 1kg,11
+2026-01-23,P04,Telur Ayam 1 Papan,22
+2026-01-23,P05,Mie Instan 1 Dus,22
+2026-01-24,P01,Beras Premium 5kg,18
+2026-01-24,P02,Minyak Goreng 1L,15
+2026-01-24,P03,Gula Pasir 1kg,13
+2026-01-24,P04,Telur Ayam 1 Papan,22
+2026-01-24,P05,Mie Instan 1 Dus,29
+2026-01-25,P01,Beras Premium 5kg,21
+2026-01-25,P02,Minyak Goreng 1L,15
+2026-01-25,P03,Gula Pasir 1kg,14
+2026-01-25,P04,Telur Ayam 1 Papan,21
+2026-01-25,P05,Mie Instan 1 Dus,27
+2026-01-26,P01,Beras Premium 5kg,17
+2026-01-26,P02,Minyak Goreng 1L,15
+2026-01-26,P03,Gula Pasir 1kg,11
+2026-01-26,P04,Telur Ayam 1 Papan,19
+2026-01-26,P05,Mie Instan 1 Dus,27
+2026-01-27,P01,Beras Premium 5kg,18
+2026-01-27,P02,Minyak Goreng 1L,14
+2026-01-27,P03,Gula Pasir 1kg,11
+2026-01-27,P04,Telur Ayam 1 Papan,18
+2026-01-27,P05,Mie Instan 1 Dus,26
+2026-01-28,P01,Beras Premium 5kg,20
+2026-01-28,P02,Minyak Goreng 1L,14
+2026-01-28,P03,Gula Pasir 1kg,11
+2026-01-28,P04,Telur Ayam 1 Papan,19
+2026-01-28,P05,Mie Instan 1 Dus,27
+2026-01-29,P01,Beras Premium 5kg,17
+2026-01-29,P02,Minyak Goreng 1L,16
+2026-01-29,P03,Gula Pasir 1kg,12
+2026-01-29,P04,Telur Ayam 1 Papan,19
+2026-01-29,P05,Mie Instan 1 Dus,22
+2026-01-30,P01,Beras Premium 5kg,17
+2026-01-30,P02,Minyak Goreng 1L,15
+2026-01-30,P03,Gula Pasir 1kg,12
+2026-01-30,P04,Telur Ayam 1 Papan,18
+2026-01-30,P05,Mie Instan 1 Dus,24
+2026-01-31,P01,Beras Premium 5kg,22
+2026-01-31,P02,Minyak Goreng 1L,17
+2026-01-31,P03,Gula Pasir 1kg,14
+2026-01-31,P04,Telur Ayam 1 Papan,24
+2026-01-31,P05,Mie Instan 1 Dus,31
+2026-02-01,P01,Beras Premium 5kg,19
+2026-02-01,P02,Minyak Goreng 1L,16
+2026-02-01,P03,Gula Pasir 1kg,13
+2026-02-01,P04,Telur Ayam 1 Papan,26
+2026-02-01,P05,Mie Instan 1 Dus,27
+2026-02-02,P01,Beras Premium 5kg,19
+2026-02-02,P02,Minyak Goreng 1L,15
+2026-02-02,P03,Gula Pasir 1kg,13
+2026-02-02,P04,Telur Ayam 1 Papan,20
+2026-02-02,P05,Mie Instan 1 Dus,28
+2026-02-03,P01,Beras Premium 5kg,18
+2026-02-03,P02,Minyak Goreng 1L,15
+2026-02-03,P03,Gula Pasir 1kg,13
+2026-02-03,P04,Telur Ayam 1 Papan,19
+2026-02-03,P05,Mie Instan 1 Dus,27
+2026-02-04,P01,Beras Premium 5kg,20
+2026-02-04,P02,Minyak Goreng 1L,14
+2026-02-04,P03,Gula Pasir 1kg,13
+2026-02-04,P04,Telur Ayam 1 Papan,23
+2026-02-04,P05,Mie Instan 1 Dus,27
+2026-02-05,P01,Beras Premium 5kg,18
+2026-02-05,P02,Minyak Goreng 1L,17
+2026-02-05,P03,Gula Pasir 1kg,12
+2026-02-05,P04,Telur Ayam 1 Papan,21
+2026-02-05,P05,Mie Instan 1 Dus,25
+2026-02-06,P01,Beras Premium 5kg,17
+2026-02-06,P02,Minyak Goreng 1L,14
+2026-02-06,P03,Gula Pasir 1kg,14
+2026-02-06,P04,Telur Ayam 1 Papan,21
+2026-02-06,P05,Mie Instan 1 Dus,29
+2026-02-07,P01,Beras Premium 5kg,19
+2026-02-07,P02,Minyak Goreng 1L,18
+2026-02-07,P03,Gula Pasir 1kg,13
+2026-02-07,P04,Telur Ayam 1 Papan,25
+2026-02-07,P05,Mie Instan 1 Dus,29
+2026-02-08,P01,Beras Premium 5kg,23
+2026-02-08,P02,Minyak Goreng 1L,18
+2026-02-08,P03,Gula Pasir 1kg,15
+2026-02-08,P04,Telur Ayam 1 Papan,23
+2026-02-08,P05,Mie Instan 1 Dus,31
+2026-02-09,P01,Beras Premium 5kg,20
+2026-02-09,P02,Minyak Goreng 1L,16
+2026-02-09,P03,Gula Pasir 1kg,11
+2026-02-09,P04,Telur Ayam 1 Papan,19
+2026-02-09,P05,Mie Instan 1 Dus,27
+2026-02-10,P01,Beras Premium 5kg,20
+2026-02-10,P02,Minyak Goreng 1L,15
+2026-02-10,P03,Gula Pasir 1kg,12
+2026-02-10,P04,Telur Ayam 1 Papan,20
+2026-02-10,P05,Mie Instan 1 Dus,27
+2026-02-11,P01,Beras Premium 5kg,17
+2026-02-11,P02,Minyak Goreng 1L,15
+2026-02-11,P03,Gula Pasir 1kg,14
+2026-02-11,P04,Telur Ayam 1 Papan,21
+2026-02-11,P05,Mie Instan 1 Dus,27
+2026-02-12,P01,Beras Premium 5kg,17
+2026-02-12,P02,Minyak Goreng 1L,16
+2026-02-12,P03,Gula Pasir 1kg,12
+2026-02-12,P04,Telur Ayam 1 Papan,21
+2026-02-12,P05,Mie Instan 1 Dus,24
+2026-02-13,P01,Beras Premium 5kg,19
+2026-02-13,P02,Minyak Goreng 1L,14
+2026-02-13,P03,Gula Pasir 1kg,11
+2026-02-13,P04,Telur Ayam 1 Papan,21
+2026-02-13,P05,Mie Instan 1 Dus,27
+2026-02-14,P01,Beras Premium 5kg,22
+2026-02-14,P02,Minyak Goreng 1L,17
+2026-02-14,P03,Gula Pasir 1kg,14
+2026-02-14,P04,Telur Ayam 1 Papan,22
+2026-02-14,P05,Mie Instan 1 Dus,28
+2026-02-15,P01,Beras Premium 5kg,20
+2026-02-15,P02,Minyak Goreng 1L,17
+2026-02-15,P03,Gula Pasir 1kg,16
+2026-02-15,P04,Telur Ayam 1 Papan,22
+2026-02-15,P05,Mie Instan 1 Dus,28
+2026-02-16,P01,Beras Premium 5kg,17
+2026-02-16,P02,Minyak Goreng 1L,16
+2026-02-16,P03,Gula Pasir 1kg,12
+2026-02-16,P04,Telur Ayam 1 Papan,22
+2026-02-16,P05,Mie Instan 1 Dus,28
+2026-02-17,P01,Beras Premium 5kg,17
+2026-02-17,P02,Minyak Goreng 1L,17
+2026-02-17,P03,Gula Pasir 1kg,13
+2026-02-17,P04,Telur Ayam 1 Papan,22
+2026-02-17,P05,Mie Instan 1 Dus,28
+2026-02-18,P01,Beras Premium 5kg,21
+2026-02-18,P02,Minyak Goreng 1L,16
+2026-02-18,P03,Gula Pasir 1kg,12
+2026-02-18,P04,Telur Ayam 1 Papan,22
+2026-02-18,P05,Mie Instan 1 Dus,25
+2026-02-19,P01,Beras Premium 5kg,17
+2026-02-19,P02,Minyak Goreng 1L,15
+2026-02-19,P03,Gula Pasir 1kg,13
+2026-02-19,P04,Telur Ayam 1 Papan,23
+2026-02-19,P05,Mie Instan 1 Dus,26
+2026-02-20,P01,Beras Premium 5kg,18
+2026-02-20,P02,Minyak Goreng 1L,17
+2026-02-20,P03,Gula Pasir 1kg,14
+2026-02-20,P04,Telur Ayam 1 Papan,22
+2026-02-20,P05,Mie Instan 1 Dus,28
+2026-02-21,P01,Beras Premium 5kg,21
+2026-02-21,P02,Minyak Goreng 1L,17
+2026-02-21,P03,Gula Pasir 1kg,14
+2026-02-21,P04,Telur Ayam 1 Papan,25
+2026-02-21,P05,Mie Instan 1 Dus,30
+2026-02-22,P01,Beras Premium 5kg,19
+2026-02-22,P02,Minyak Goreng 1L,19
+2026-02-22,P03,Gula Pasir 1kg,15
+2026-02-22,P04,Telur Ayam 1 Papan,25
+2026-02-22,P05,Mie Instan 1 Dus,33
+2026-02-23,P01,Beras Premium 5kg,20
+2026-02-23,P02,Minyak Goreng 1L,14
+2026-02-23,P03,Gula Pasir 1kg,11
+2026-02-23,P04,Telur Ayam 1 Papan,23
+2026-02-23,P05,Mie Instan 1 Dus,23
+2026-02-24,P01,Beras Premium 5kg,17
+2026-02-24,P02,Minyak Goreng 1L,16
+2026-02-24,P03,Gula Pasir 1kg,11
+2026-02-24,P04,Telur Ayam 1 Papan,20
+2026-02-24,P05,Mie Instan 1 Dus,24
+2026-02-25,P01,Beras Premium 5kg,18
+2026-02-25,P02,Minyak Goreng 1L,14
+2026-02-25,P03,Gula Pasir 1kg,12
+2026-02-25,P04,Telur Ayam 1 Papan,18
+2026-02-25,P05,Mie Instan 1 Dus,23
+2026-02-26,P01,Beras Premium 5kg,17
+2026-02-26,P02,Minyak Goreng 1L,15
+2026-02-26,P03,Gula Pasir 1kg,11
+2026-02-26,P04,Telur Ayam 1 Papan,19
+2026-02-26,P05,Mie Instan 1 Dus,29
+2026-02-27,P01,Beras Premium 5kg,20
+2026-02-27,P02,Minyak Goreng 1L,16
+2026-02-27,P03,Gula Pasir 1kg,13
+2026-02-27,P04,Telur Ayam 1 Papan,19
+2026-02-27,P05,Mie Instan 1 Dus,25
+2026-02-28,P01,Beras Premium 5kg,21
+2026-02-28,P02,Minyak Goreng 1L,19
+2026-02-28,P03,Gula Pasir 1kg,14
+2026-02-28,P04,Telur Ayam 1 Papan,26
+2026-02-28,P05,Mie Instan 1 Dus,32
+2026-03-01,P01,Beras Premium 5kg,22
+2026-03-01,P02,Minyak Goreng 1L,19
+2026-03-01,P03,Gula Pasir 1kg,16
+2026-03-01,P04,Telur Ayam 1 Papan,28
+2026-03-01,P05,Mie Instan 1 Dus,30
+2026-03-02,P01,Beras Premium 5kg,19
+2026-03-02,P02,Minyak Goreng 1L,16
+2026-03-02,P03,Gula Pasir 1kg,15
+2026-03-02,P04,Telur Ayam 1 Papan,21
+2026-03-02,P05,Mie Instan 1 Dus,29
+2026-03-03,P01,Beras Premium 5kg,19
+2026-03-03,P02,Minyak Goreng 1L,16
+2026-03-03,P03,Gula Pasir 1kg,14
+2026-03-03,P04,Telur Ayam 1 Papan,22
+2026-03-03,P05,Mie Instan 1 Dus,28
+2026-03-04,P01,Beras Premium 5kg,22
+2026-03-04,P02,Minyak Goreng 1L,16
+2026-03-04,P03,Gula Pasir 1kg,15
+2026-03-04,P04,Telur Ayam 1 Papan,20
+2026-03-04,P05,Mie Instan 1 Dus,25
+2026-03-05,P01,Beras Premium 5kg,22
+2026-03-05,P02,Minyak Goreng 1L,16
+2026-03-05,P03,Gula Pasir 1kg,15
+2026-03-05,P04,Telur Ayam 1 Papan,24
+2026-03-05,P05,Mie Instan 1 Dus,30
+2026-03-06,P01,Beras Premium 5kg,21
+2026-03-06,P02,Minyak Goreng 1L,16
+2026-03-06,P03,Gula Pasir 1kg,15
+2026-03-06,P04,Telur Ayam 1 Papan,25
+2026-03-06,P05,Mie Instan 1 Dus,31
+2026-03-07,P01,Beras Premium 5kg,22
+2026-03-07,P02,Minyak Goreng 1L,19
+2026-03-07,P03,Gula Pasir 1kg,14
+2026-03-07,P04,Telur Ayam 1 Papan,28
+2026-03-07,P05,Mie Instan 1 Dus,29
+2026-03-08,P01,Beras Premium 5kg,21
+2026-03-08,P02,Minyak Goreng 1L,22
+2026-03-08,P03,Gula Pasir 1kg,15
+2026-03-08,P04,Telur Ayam 1 Papan,26
+2026-03-08,P05,Mie Instan 1 Dus,34
+2026-03-09,P01,Beras Premium 5kg,22
+2026-03-09,P02,Minyak Goreng 1L,15
+2026-03-09,P03,Gula Pasir 1kg,14
+2026-03-09,P04,Telur Ayam 1 Papan,24
+2026-03-09,P05,Mie Instan 1 Dus,32
+2026-03-10,P01,Beras Premium 5kg,22
+2026-03-10,P02,Minyak Goreng 1L,16
+2026-03-10,P03,Gula Pasir 1kg,15
+2026-03-10,P04,Telur Ayam 1 Papan,25
+2026-03-10,P05,Mie Instan 1 Dus,29
+2026-03-11,P01,Beras Premium 5kg,21
+2026-03-11,P02,Minyak Goreng 1L,17
+2026-03-11,P03,Gula Pasir 1kg,14
+2026-03-11,P04,Telur Ayam 1 Papan,25
+2026-03-11,P05,Mie Instan 1 Dus,26
+2026-03-12,P01,Beras Premium 5kg,23
+2026-03-12,P02,Minyak Goreng 1L,17
+2026-03-12,P03,Gula Pasir 1kg,15
+2026-03-12,P04,Telur Ayam 1 Papan,22
+2026-03-12,P05,Mie Instan 1 Dus,29
+2026-03-13,P01,Beras Premium 5kg,19
+2026-03-13,P02,Minyak Goreng 1L,18
+2026-03-13,P03,Gula Pasir 1kg,15
+2026-03-13,P04,Telur Ayam 1 Papan,23
+2026-03-13,P05,Mie Instan 1 Dus,26
+2026-03-14,P01,Beras Premium 5kg,23
+2026-03-14,P02,Minyak Goreng 1L,18
+2026-03-14,P03,Gula Pasir 1kg,18
+2026-03-14,P04,Telur Ayam 1 Papan,27
+2026-03-14,P05,Mie Instan 1 Dus,33
+2026-03-15,P01,Beras Premium 5kg,24
+2026-03-15,P02,Minyak Goreng 1L,19
+2026-03-15,P03,Gula Pasir 1kg,17
+2026-03-15,P04,Telur Ayam 1 Papan,29
+2026-03-15,P05,Mie Instan 1 Dus,36
+2026-03-16,P01,Beras Premium 5kg,21
+2026-03-16,P02,Minyak Goreng 1L,19
+2026-03-16,P03,Gula Pasir 1kg,14
+2026-03-16,P04,Telur Ayam 1 Papan,22
+2026-03-16,P05,Mie Instan 1 Dus,26
+2026-03-17,P01,Beras Premium 5kg,19
+2026-03-17,P02,Minyak Goreng 1L,18
+2026-03-17,P03,Gula Pasir 1kg,13
+2026-03-17,P04,Telur Ayam 1 Papan,21
+2026-03-17,P05,Mie Instan 1 Dus,31
+2026-03-18,P01,Beras Premium 5kg,19
+2026-03-18,P02,Minyak Goreng 1L,17
+2026-03-18,P03,Gula Pasir 1kg,14
+2026-03-18,P04,Telur Ayam 1 Papan,22
+2026-03-18,P05,Mie Instan 1 Dus,29
+2026-03-19,P01,Beras Premium 5kg,23
+2026-03-19,P02,Minyak Goreng 1L,18
+2026-03-19,P03,Gula Pasir 1kg,13
+2026-03-19,P04,Telur Ayam 1 Papan,25
+2026-03-19,P05,Mie Instan 1 Dus,29
+2026-03-20,P01,Beras Premium 5kg,22
+2026-03-20,P02,Minyak Goreng 1L,18
+2026-03-20,P03,Gula Pasir 1kg,12
+2026-03-20,P04,Telur Ayam 1 Papan,24
+2026-03-20,P05,Mie Instan 1 Dus,26
+2026-03-21,P01,Beras Premium 5kg,26
+2026-03-21,P02,Minyak Goreng 1L,18
+2026-03-21,P03,Gula Pasir 1kg,16
+2026-03-21,P04,Telur Ayam 1 Papan,26
+2026-03-21,P05,Mie Instan 1 Dus,36
+2026-03-22,P01,Beras Premium 5kg,26
+2026-03-22,P02,Minyak Goreng 1L,19
+2026-03-22,P03,Gula Pasir 1kg,17
+2026-03-22,P04,Telur Ayam 1 Papan,24
+2026-03-22,P05,Mie Instan 1 Dus,34
+2026-03-23,P01,Beras Premium 5kg,22
+2026-03-23,P02,Minyak Goreng 1L,19
+2026-03-23,P03,Gula Pasir 1kg,13
+2026-03-23,P04,Telur Ayam 1 Papan,22
+2026-03-23,P05,Mie Instan 1 Dus,30
+2026-03-24,P01,Beras Premium 5kg,20
+2026-03-24,P02,Minyak Goreng 1L,16
+2026-03-24,P03,Gula Pasir 1kg,15
+2026-03-24,P04,Telur Ayam 1 Papan,23
+2026-03-24,P05,Mie Instan 1 Dus,26
+2026-03-25,P01,Beras Premium 5kg,21
+2026-03-25,P02,Minyak Goreng 1L,17
+2026-03-25,P03,Gula Pasir 1kg,15
+2026-03-25,P04,Telur Ayam 1 Papan,24
+2026-03-25,P05,Mie Instan 1 Dus,27
+2026-03-26,P01,Beras Premium 5kg,22
+2026-03-26,P02,Minyak Goreng 1L,16
+2026-03-26,P03,Gula Pasir 1kg,14
+2026-03-26,P04,Telur Ayam 1 Papan,21
+2026-03-26,P05,Mie Instan 1 Dus,26
+2026-03-27,P01,Beras Premium 5kg,19
+2026-03-27,P02,Minyak Goreng 1L,18
+2026-03-27,P03,Gula Pasir 1kg,14
+2026-03-27,P04,Telur Ayam 1 Papan,24
+2026-03-27,P05,Mie Instan 1 Dus,26
+2026-03-28,P01,Beras Premium 5kg,22
+2026-03-28,P02,Minyak Goreng 1L,18
+2026-03-28,P03,Gula Pasir 1kg,15
+2026-03-28,P04,Telur Ayam 1 Papan,25
+2026-03-28,P05,Mie Instan 1 Dus,36
+2026-03-29,P01,Beras Premium 5kg,25
+2026-03-29,P02,Minyak Goreng 1L,21
+2026-03-29,P03,Gula Pasir 1kg,14
+2026-03-29,P04,Telur Ayam 1 Papan,26
+2026-03-29,P05,Mie Instan 1 Dus,29
+2026-03-30,P01,Beras Premium 5kg,22
+2026-03-30,P02,Minyak Goreng 1L,17
+2026-03-30,P03,Gula Pasir 1kg,13
+2026-03-30,P04,Telur Ayam 1 Papan,22
+2026-03-30,P05,Mie Instan 1 Dus,27
+2026-03-31,P01,Beras Premium 5kg,23
+2026-03-31,P02,Minyak Goreng 1L,15
+2026-03-31,P03,Gula Pasir 1kg,15
+2026-03-31,P04,Telur Ayam 1 Papan,26
+2026-03-31,P05,Mie Instan 1 Dus,31
+2026-04-01,P01,Beras Premium 5kg,19
+2026-04-01,P02,Minyak Goreng 1L,19
+2026-04-01,P03,Gula Pasir 1kg,13
+2026-04-01,P04,Telur Ayam 1 Papan,25
+2026-04-01,P05,Mie Instan 1 Dus,26
+2026-04-02,P01,Beras Premium 5kg,23
+2026-04-02,P02,Minyak Goreng 1L,19
+2026-04-02,P03,Gula Pasir 1kg,15
+2026-04-02,P04,Telur Ayam 1 Papan,25
+2026-04-02,P05,Mie Instan 1 Dus,29
+2026-04-03,P01,Beras Premium 5kg,19
+2026-04-03,P02,Minyak Goreng 1L,17
+2026-04-03,P03,Gula Pasir 1kg,13
+2026-04-03,P04,Telur Ayam 1 Papan,25
+2026-04-03,P05,Mie Instan 1 Dus,26
+2026-04-04,P01,Beras Premium 5kg,22
+2026-04-04,P02,Minyak Goreng 1L,22
+2026-04-04,P03,Gula Pasir 1kg,16
+2026-04-04,P04,Telur Ayam 1 Papan,27
+2026-04-04,P05,Mie Instan 1 Dus,33
+2026-04-05,P01,Beras Premium 5kg,24
+2026-04-05,P02,Minyak Goreng 1L,18
+2026-04-05,P03,Gula Pasir 1kg,14
+2026-04-05,P04,Telur Ayam 1 Papan,26
+2026-04-05,P05,Mie Instan 1 Dus,33
+2026-04-06,P01,Beras Premium 5kg,22
+2026-04-06,P02,Minyak Goreng 1L,19
+2026-04-06,P03,Gula Pasir 1kg,15
+2026-04-06,P04,Telur Ayam 1 Papan,23
+2026-04-06,P05,Mie Instan 1 Dus,26
+2026-04-07,P01,Beras Premium 5kg,20
+2026-04-07,P02,Minyak Goreng 1L,17
+2026-04-07,P03,Gula Pasir 1kg,12
+2026-04-07,P04,Telur Ayam 1 Papan,24
+2026-04-07,P05,Mie Instan 1 Dus,32
+2026-04-08,P01,Beras Premium 5kg,19
+2026-04-08,P02,Minyak Goreng 1L,19
+2026-04-08,P03,Gula Pasir 1kg,13
+2026-04-08,P04,Telur Ayam 1 Papan,24
+2026-04-08,P05,Mie Instan 1 Dus,30
+2026-04-09,P01,Beras Premium 5kg,21
+2026-04-09,P02,Minyak Goreng 1L,17
+2026-04-09,P03,Gula Pasir 1kg,13
+2026-04-09,P04,Telur Ayam 1 Papan,25
+2026-04-09,P05,Mie Instan 1 Dus,31
+2026-04-10,P01,Beras Premium 5kg,21
+2026-04-10,P02,Minyak Goreng 1L,17
+2026-04-10,P03,Gula Pasir 1kg,13
+2026-04-10,P04,Telur Ayam 1 Papan,24
+2026-04-10,P05,Mie Instan 1 Dus,31
+2026-04-11,P01,Beras Premium 5kg,26
+2026-04-11,P02,Minyak Goreng 1L,20
+2026-04-11,P03,Gula Pasir 1kg,15
+2026-04-11,P04,Telur Ayam 1 Papan,24
+2026-04-11,P05,Mie Instan 1 Dus,30
+2026-04-12,P01,Beras Premium 5kg,22
+2026-04-12,P02,Minyak Goreng 1L,20
+2026-04-12,P03,Gula Pasir 1kg,17
+2026-04-12,P04,Telur Ayam 1 Papan,29
+2026-04-12,P05,Mie Instan 1 Dus,36
+2026-04-13,P01,Beras Premium 5kg,20
+2026-04-13,P02,Minyak Goreng 1L,18
+2026-04-13,P03,Gula Pasir 1kg,13
+2026-04-13,P04,Telur Ayam 1 Papan,23
+2026-04-13,P05,Mie Instan 1 Dus,32
+2026-04-14,P01,Beras Premium 5kg,20
+2026-04-14,P02,Minyak Goreng 1L,18
+2026-04-14,P03,Gula Pasir 1kg,15
+2026-04-14,P04,Telur Ayam 1 Papan,25
+2026-04-14,P05,Mie Instan 1 Dus,29
+2026-04-15,P01,Beras Premium 5kg,22
+2026-04-15,P02,Minyak Goreng 1L,19
+2026-04-15,P03,Gula Pasir 1kg,14
+2026-04-15,P04,Telur Ayam 1 Papan,21
+2026-04-15,P05,Mie Instan 1 Dus,28
+2026-04-16,P01,Beras Premium 5kg,21
+2026-04-16,P02,Minyak Goreng 1L,18
+2026-04-16,P03,Gula Pasir 1kg,13
+2026-04-16,P04,Telur Ayam 1 Papan,24
+2026-04-16,P05,Mie Instan 1 Dus,27
+2026-04-17,P01,Beras Premium 5kg,19
+2026-04-17,P02,Minyak Goreng 1L,18
+2026-04-17,P03,Gula Pasir 1kg,14
+2026-04-17,P04,Telur Ayam 1 Papan,25
+2026-04-17,P05,Mie Instan 1 Dus,29
+2026-04-18,P01,Beras Premium 5kg,25
+2026-04-18,P02,Minyak Goreng 1L,18
+2026-04-18,P03,Gula Pasir 1kg,15
+2026-04-18,P04,Telur Ayam 1 Papan,28
+2026-04-18,P05,Mie Instan 1 Dus,35
+2026-04-19,P01,Beras Premium 5kg,22
+2026-04-19,P02,Minyak Goreng 1L,18
+2026-04-19,P03,Gula Pasir 1kg,15
+2026-04-19,P04,Telur Ayam 1 Papan,25
+2026-04-19,P05,Mie Instan 1 Dus,34
+2026-04-20,P01,Beras Premium 5kg,18
+2026-04-20,P02,Minyak Goreng 1L,18
+2026-04-20,P03,Gula Pasir 1kg,13
+2026-04-20,P04,Telur Ayam 1 Papan,25
+2026-04-20,P05,Mie Instan 1 Dus,30
+2026-04-21,P01,Beras Premium 5kg,22
+2026-04-21,P02,Minyak Goreng 1L,17
+2026-04-21,P03,Gula Pasir 1kg,15
+2026-04-21,P04,Telur Ayam 1 Papan,26
+2026-04-21,P05,Mie Instan 1 Dus,32
+2026-04-22,P01,Beras Premium 5kg,20
+2026-04-22,P02,Minyak Goreng 1L,19
+2026-04-22,P03,Gula Pasir 1kg,15
+2026-04-22,P04,Telur Ayam 1 Papan,25
+2026-04-22,P05,Mie Instan 1 Dus,32
+2026-04-23,P01,Beras Premium 5kg,22
+2026-04-23,P02,Minyak Goreng 1L,17
+2026-04-23,P03,Gula Pasir 1kg,15
+2026-04-23,P04,Telur Ayam 1 Papan,20
+2026-04-23,P05,Mie Instan 1 Dus,31
+2026-04-24,P01,Beras Premium 5kg,18
+2026-04-24,P02,Minyak Goreng 1L,17
+2026-04-24,P03,Gula Pasir 1kg,13
+2026-04-24,P04,Telur Ayam 1 Papan,24
+2026-04-24,P05,Mie Instan 1 Dus,32
+2026-04-25,P01,Beras Premium 5kg,22
+2026-04-25,P02,Minyak Goreng 1L,21
+2026-04-25,P03,Gula Pasir 1kg,16
+2026-04-25,P04,Telur Ayam 1 Papan,25
+2026-04-25,P05,Mie Instan 1 Dus,30
+2026-04-26,P01,Beras Premium 5kg,24
+2026-04-26,P02,Minyak Goreng 1L,20
+2026-04-26,P03,Gula Pasir 1kg,18
+2026-04-26,P04,Telur Ayam 1 Papan,27
+2026-04-26,P05,Mie Instan 1 Dus,31
+2026-04-27,P01,Beras Premium 5kg,20
+2026-04-27,P02,Minyak Goreng 1L,15
+2026-04-27,P03,Gula Pasir 1kg,12
+2026-04-27,P04,Telur Ayam 1 Papan,21
+2026-04-27,P05,Mie Instan 1 Dus,30
+2026-04-28,P01,Beras Premium 5kg,23
+2026-04-28,P02,Minyak Goreng 1L,19
+2026-04-28,P03,Gula Pasir 1kg,14
+2026-04-28,P04,Telur Ayam 1 Papan,20
+2026-04-28,P05,Mie Instan 1 Dus,32
+2026-04-29,P01,Beras Premium 5kg,23
+2026-04-29,P02,Minyak Goreng 1L,17
+2026-04-29,P03,Gula Pasir 1kg,14
+2026-04-29,P04,Telur Ayam 1 Papan,23
+2026-04-29,P05,Mie Instan 1 Dus,26
+2026-04-30,P01,Beras Premium 5kg,20
+2026-04-30,P02,Minyak Goreng 1L,17
+2026-04-30,P03,Gula Pasir 1kg,14
+2026-04-30,P04,Telur Ayam 1 Papan,24
+2026-04-30,P05,Mie Instan 1 Dus,29
+2026-05-01,P01,Beras Premium 5kg,21
+2026-05-01,P02,Minyak Goreng 1L,15
+2026-05-01,P03,Gula Pasir 1kg,13
+2026-05-01,P04,Telur Ayam 1 Papan,23
+2026-05-01,P05,Mie Instan 1 Dus,25
+2026-05-02,P01,Beras Premium 5kg,20
+2026-05-02,P02,Minyak Goreng 1L,17
+2026-05-02,P03,Gula Pasir 1kg,15
+2026-05-02,P04,Telur Ayam 1 Papan,21
+2026-05-02,P05,Mie Instan 1 Dus,29
+2026-05-03,P01,Beras Premium 5kg,22
+2026-05-03,P02,Minyak Goreng 1L,16
+2026-05-03,P03,Gula Pasir 1kg,14
+2026-05-03,P04,Telur Ayam 1 Papan,26
+2026-05-03,P05,Mie Instan 1 Dus,29
+2026-05-04,P01,Beras Premium 5kg,18
+2026-05-04,P02,Minyak Goreng 1L,15
+2026-05-04,P03,Gula Pasir 1kg,13
+2026-05-04,P04,Telur Ayam 1 Papan,20
+2026-05-04,P05,Mie Instan 1 Dus,27
+2026-05-05,P01,Beras Premium 5kg,20
+2026-05-05,P02,Minyak Goreng 1L,14
+2026-05-05,P03,Gula Pasir 1kg,13
+2026-05-05,P04,Telur Ayam 1 Papan,23
+2026-05-05,P05,Mie Instan 1 Dus,24
+2026-05-06,P01,Beras Premium 5kg,21
+2026-05-06,P02,Minyak Goreng 1L,15
+2026-05-06,P03,Gula Pasir 1kg,13
+2026-05-06,P04,Telur Ayam 1 Papan,20
+2026-05-06,P05,Mie Instan 1 Dus,27
+2026-05-07,P01,Beras Premium 5kg,20
+2026-05-07,P02,Minyak Goreng 1L,16
+2026-05-07,P03,Gula Pasir 1kg,13
+2026-05-07,P04,Telur Ayam 1 Papan,22
+2026-05-07,P05,Mie Instan 1 Dus,27
+2026-05-08,P01,Beras Premium 5kg,19
+2026-05-08,P02,Minyak Goreng 1L,17
+2026-05-08,P03,Gula Pasir 1kg,12
+2026-05-08,P04,Telur Ayam 1 Papan,21
+2026-05-08,P05,Mie Instan 1 Dus,27
+2026-05-09,P01,Beras Premium 5kg,24
+2026-05-09,P02,Minyak Goreng 1L,18
+2026-05-09,P03,Gula Pasir 1kg,14
+2026-05-09,P04,Telur Ayam 1 Papan,24
+2026-05-09,P05,Mie Instan 1 Dus,33
+2026-05-10,P01,Beras Premium 5kg,22
+2026-05-10,P02,Minyak Goreng 1L,19
+2026-05-10,P03,Gula Pasir 1kg,16
+2026-05-10,P04,Telur Ayam 1 Papan,24
+2026-05-10,P05,Mie Instan 1 Dus,30
+2026-05-11,P01,Beras Premium 5kg,18
+2026-05-11,P02,Minyak Goreng 1L,17
+2026-05-11,P03,Gula Pasir 1kg,13
+2026-05-11,P04,Telur Ayam 1 Papan,20
+2026-05-11,P05,Mie Instan 1 Dus,24
+2026-05-12,P01,Beras Premium 5kg,17
+2026-05-12,P02,Minyak Goreng 1L,16
+2026-05-12,P03,Gula Pasir 1kg,11
+2026-05-12,P04,Telur Ayam 1 Papan,22
+2026-05-12,P05,Mie Instan 1 Dus,25
+2026-05-13,P01,Beras Premium 5kg,17
+2026-05-13,P02,Minyak Goreng 1L,17
+2026-05-13,P03,Gula Pasir 1kg,14
+2026-05-13,P04,Telur Ayam 1 Papan,20
+2026-05-13,P05,Mie Instan 1 Dus,26
+2026-05-14,P01,Beras Premium 5kg,21
+2026-05-14,P02,Minyak Goreng 1L,16
+2026-05-14,P03,Gula Pasir 1kg,12
+2026-05-14,P04,Telur Ayam 1 Papan,22
+2026-05-14,P05,Mie Instan 1 Dus,29
+2026-05-15,P01,Beras Premium 5kg,17
+2026-05-15,P02,Minyak Goreng 1L,17
+2026-05-15,P03,Gula Pasir 1kg,12
+2026-05-15,P04,Telur Ayam 1 Papan,23
+2026-05-15,P05,Mie Instan 1 Dus,26
+2026-05-16,P01,Beras Premium 5kg,20
+2026-05-16,P02,Minyak Goreng 1L,19
+2026-05-16,P03,Gula Pasir 1kg,13
+2026-05-16,P04,Telur Ayam 1 Papan,27
+2026-05-16,P05,Mie Instan 1 Dus,34
+2026-05-17,P01,Beras Premium 5kg,23
+2026-05-17,P02,Minyak Goreng 1L,17
+2026-05-17,P03,Gula Pasir 1kg,13
+2026-05-17,P04,Telur Ayam 1 Papan,25
+2026-05-17,P05,Mie Instan 1 Dus,33
+2026-05-18,P01,Beras Premium 5kg,19
+2026-05-18,P02,Minyak Goreng 1L,15
+2026-05-18,P03,Gula Pasir 1kg,12
+2026-05-18,P04,Telur Ayam 1 Papan,19
+2026-05-18,P05,Mie Instan 1 Dus,26
+2026-05-19,P01,Beras Premium 5kg,18
+2026-05-19,P02,Minyak Goreng 1L,16
+2026-05-19,P03,Gula Pasir 1kg,14
+2026-05-19,P04,Telur Ayam 1 Papan,22
+2026-05-19,P05,Mie Instan 1 Dus,23
+2026-05-20,P01,Beras Premium 5kg,19
+2026-05-20,P02,Minyak Goreng 1L,16
+2026-05-20,P03,Gula Pasir 1kg,11
+2026-05-20,P04,Telur Ayam 1 Papan,22
+2026-05-20,P05,Mie Instan 1 Dus,24
+2026-05-21,P01,Beras Premium 5kg,17
+2026-05-21,P02,Minyak Goreng 1L,17
+2026-05-21,P03,Gula Pasir 1kg,13
+2026-05-21,P04,Telur Ayam 1 Papan,23
+2026-05-21,P05,Mie Instan 1 Dus,26
+2026-05-22,P01,Beras Premium 5kg,17
+2026-05-22,P02,Minyak Goreng 1L,15
+2026-05-22,P03,Gula Pasir 1kg,13
+2026-05-22,P04,Telur Ayam 1 Papan,19
+2026-05-22,P05,Mie Instan 1 Dus,26
+2026-05-23,P01,Beras Premium 5kg,23
+2026-05-23,P02,Minyak Goreng 1L,17
+2026-05-23,P03,Gula Pasir 1kg,15
+2026-05-23,P04,Telur Ayam 1 Papan,26
+2026-05-23,P05,Mie Instan 1 Dus,27
+2026-05-24,P01,Beras Premium 5kg,21
+2026-05-24,P02,Minyak Goreng 1L,16
+2026-05-24,P03,Gula Pasir 1kg,14
+2026-05-24,P04,Telur Ayam 1 Papan,24
+2026-05-24,P05,Mie Instan 1 Dus,30
+2026-05-25,P01,Beras Premium 5kg,18
+2026-05-25,P02,Minyak Goreng 1L,14
+2026-05-25,P03,Gula Pasir 1kg,12
+2026-05-25,P04,Telur Ayam 1 Papan,22
+2026-05-25,P05,Mie Instan 1 Dus,25
+2026-05-26,P01,Beras Premium 5kg,19
+2026-05-26,P02,Minyak Goreng 1L,15
+2026-05-26,P03,Gula Pasir 1kg,13
+2026-05-26,P04,Telur Ayam 1 Papan,20
+2026-05-26,P05,Mie Instan 1 Dus,25
+2026-05-27,P01,Beras Premium 5kg,18
+2026-05-27,P02,Minyak Goreng 1L,16
+2026-05-27,P03,Gula Pasir 1kg,13
+2026-05-27,P04,Telur Ayam 1 Papan,23
+2026-05-27,P05,Mie Instan 1 Dus,25
+2026-05-28,P01,Beras Premium 5kg,17
+2026-05-28,P02,Minyak Goreng 1L,16
+2026-05-28,P03,Gula Pasir 1kg,13
+2026-05-28,P04,Telur Ayam 1 Papan,20
+2026-05-28,P05,Mie Instan 1 Dus,26
+2026-05-29,P01,Beras Premium 5kg,19
+2026-05-29,P02,Minyak Goreng 1L,14
+2026-05-29,P03,Gula Pasir 1kg,12
+2026-05-29,P04,Telur Ayam 1 Papan,19
+2026-05-29,P05,Mie Instan 1 Dus,26
+2026-05-30,P01,Beras Premium 5kg,23
+2026-05-30,P02,Minyak Goreng 1L,18
+2026-05-30,P03,Gula Pasir 1kg,14
+2026-05-30,P04,Telur Ayam 1 Papan,23
+2026-05-30,P05,Mie Instan 1 Dus,32
+2026-05-31,P01,Beras Premium 5kg,21
+2026-05-31,P02,Minyak Goreng 1L,19
+2026-05-31,P03,Gula Pasir 1kg,14
+2026-05-31,P04,Telur Ayam 1 Papan,23
+2026-05-31,P05,Mie Instan 1 Dus,30
+2026-06-01,P01,Beras Premium 5kg,20
+2026-06-01,P02,Minyak Goreng 1L,14
+2026-06-01,P03,Gula Pasir 1kg,12
+2026-06-01,P04,Telur Ayam 1 Papan,20
+2026-06-01,P05,Mie Instan 1 Dus,24
+2026-06-02,P01,Beras Premium 5kg,18
+2026-06-02,P02,Minyak Goreng 1L,16
+2026-06-02,P03,Gula Pasir 1kg,13
+2026-06-02,P04,Telur Ayam 1 Papan,23
+2026-06-02,P05,Mie Instan 1 Dus,28
+2026-06-03,P01,Beras Premium 5kg,21
+2026-06-03,P02,Minyak Goreng 1L,17
+2026-06-03,P03,Gula Pasir 1kg,13
+2026-06-03,P04,Telur Ayam 1 Papan,19
+2026-06-03,P05,Mie Instan 1 Dus,29
+2026-06-04,P01,Beras Premium 5kg,17
+2026-06-04,P02,Minyak Goreng 1L,16
+2026-06-04,P03,Gula Pasir 1kg,12
+2026-06-04,P04,Telur Ayam 1 Papan,20
+2026-06-04,P05,Mie Instan 1 Dus,24
+2026-06-05,P01,Beras Premium 5kg,17
+2026-06-05,P02,Minyak Goreng 1L,15
+2026-06-05,P03,Gula Pasir 1kg,14
+2026-06-05,P04,Telur Ayam 1 Papan,22
+2026-06-05,P05,Mie Instan 1 Dus,24
+2026-06-06,P01,Beras Premium 5kg,24
+2026-06-06,P02,Minyak Goreng 1L,20
+2026-06-06,P03,Gula Pasir 1kg,13
+2026-06-06,P04,Telur Ayam 1 Papan,27
+2026-06-06,P05,Mie Instan 1 Dus,29
+2026-06-07,P01,Beras Premium 5kg,24
+2026-06-07,P02,Minyak Goreng 1L,19
+2026-06-07,P03,Gula Pasir 1kg,14
+2026-06-07,P04,Telur Ayam 1 Papan,27
+2026-06-07,P05,Mie Instan 1 Dus,29
+2026-06-08,P01,Beras Premium 5kg,18
+2026-06-08,P02,Minyak Goreng 1L,14
+2026-06-08,P03,Gula Pasir 1kg,14
+2026-06-08,P04,Telur Ayam 1 Papan,19
+2026-06-08,P05,Mie Instan 1 Dus,28
+2026-06-09,P01,Beras Premium 5kg,18
+2026-06-09,P02,Minyak Goreng 1L,17
+2026-06-09,P03,Gula Pasir 1kg,14
+2026-06-09,P04,Telur Ayam 1 Papan,19
+2026-06-09,P05,Mie Instan 1 Dus,24
+2026-06-10,P01,Beras Premium 5kg,19
+2026-06-10,P02,Minyak Goreng 1L,17
+2026-06-10,P03,Gula Pasir 1kg,11
+2026-06-10,P04,Telur Ayam 1 Papan,22
+2026-06-10,P05,Mie Instan 1 Dus,24
+2026-06-11,P01,Beras Premium 5kg,20
+2026-06-11,P02,Minyak Goreng 1L,16
+2026-06-11,P03,Gula Pasir 1kg,11
+2026-06-11,P04,Telur Ayam 1 Papan,23
+2026-06-11,P05,Mie Instan 1 Dus,26
+2026-06-12,P01,Beras Premium 5kg,18
+2026-06-12,P02,Minyak Goreng 1L,14
+2026-06-12,P03,Gula Pasir 1kg,13
+2026-06-12,P04,Telur Ayam 1 Papan,19
+2026-06-12,P05,Mie Instan 1 Dus,25
+2026-06-13,P01,Beras Premium 5kg,24
+2026-06-13,P02,Minyak Goreng 1L,17
+2026-06-13,P03,Gula Pasir 1kg,14
+2026-06-13,P04,Telur Ayam 1 Papan,25
+2026-06-13,P05,Mie Instan 1 Dus,30
+2026-06-14,P01,Beras Premium 5kg,22
+2026-06-14,P02,Minyak Goreng 1L,18
+2026-06-14,P03,Gula Pasir 1kg,13
+2026-06-14,P04,Telur Ayam 1 Papan,24
+2026-06-14,P05,Mie Instan 1 Dus,27
+2026-06-15,P01,Beras Premium 5kg,20
+2026-06-15,P02,Minyak Goreng 1L,15
+2026-06-15,P03,Gula Pasir 1kg,12
+2026-06-15,P04,Telur Ayam 1 Papan,20
+2026-06-15,P05,Mie Instan 1 Dus,24
+2026-06-16,P01,Beras Premium 5kg,17
+2026-06-16,P02,Minyak Goreng 1L,16
+2026-06-16,P03,Gula Pasir 1kg,12
+2026-06-16,P04,Telur Ayam 1 Papan,23
+2026-06-16,P05,Mie Instan 1 Dus,26
+2026-06-17,P01,Beras Premium 5kg,19
+2026-06-17,P02,Minyak Goreng 1L,17
+2026-06-17,P03,Gula Pasir 1kg,13
+2026-06-17,P04,Telur Ayam 1 Papan,23
+2026-06-17,P05,Mie Instan 1 Dus,26
+2026-06-18,P01,Beras Premium 5kg,18
+2026-06-18,P02,Minyak Goreng 1L,17
+2026-06-18,P03,Gula Pasir 1kg,13
+2026-06-18,P04,Telur Ayam 1 Papan,22
+2026-06-18,P05,Mie Instan 1 Dus,25
+2026-06-19,P01,Beras Premium 5kg,20
+2026-06-19,P02,Minyak Goreng 1L,18
+2026-06-19,P03,Gula Pasir 1kg,13
+2026-06-19,P04,Telur Ayam 1 Papan,19
+2026-06-19,P05,Mie Instan 1 Dus,28
+2026-06-20,P01,Beras Premium 5kg,19
+2026-06-20,P02,Minyak Goreng 1L,19
+2026-06-20,P03,Gula Pasir 1kg,13
+2026-06-20,P04,Telur Ayam 1 Papan,22
+2026-06-20,P05,Mie Instan 1 Dus,28
+2026-06-21,P01,Beras Premium 5kg,22
+2026-06-21,P02,Minyak Goreng 1L,16
+2026-06-21,P03,Gula Pasir 1kg,16
+2026-06-21,P04,Telur Ayam 1 Papan,23
+2026-06-21,P05,Mie Instan 1 Dus,33
+2026-06-22,P01,Beras Premium 5kg,17
+2026-06-22,P02,Minyak Goreng 1L,16
+2026-06-22,P03,Gula Pasir 1kg,13
+2026-06-22,P04,Telur Ayam 1 Papan,19
+2026-06-22,P05,Mie Instan 1 Dus,27
+2026-06-23,P01,Beras Premium 5kg,18
+2026-06-23,P02,Minyak Goreng 1L,16
+2026-06-23,P03,Gula Pasir 1kg,13
+2026-06-23,P04,Telur Ayam 1 Papan,21
+2026-06-23,P05,Mie Instan 1 Dus,29
+2026-06-24,P01,Beras Premium 5kg,21
+2026-06-24,P02,Minyak Goreng 1L,16
+2026-06-24,P03,Gula Pasir 1kg,12
+2026-06-24,P04,Telur Ayam 1 Papan,23
+2026-06-24,P05,Mie Instan 1 Dus,25
+2026-06-25,P01,Beras Premium 5kg,20
+2026-06-25,P02,Minyak Goreng 1L,16
+2026-06-25,P03,Gula Pasir 1kg,13
+2026-06-25,P04,Telur Ayam 1 Papan,23
+2026-06-25,P05,Mie Instan 1 Dus,26
+2026-06-26,P01,Beras Premium 5kg,19
+2026-06-26,P02,Minyak Goreng 1L,14
+2026-06-26,P03,Gula Pasir 1kg,11
+2026-06-26,P04,Telur Ayam 1 Papan,23
+2026-06-26,P05,Mie Instan 1 Dus,29
+2026-06-27,P01,Beras Premium 5kg,22
+2026-06-27,P02,Minyak Goreng 1L,20
+2026-06-27,P03,Gula Pasir 1kg,14
+2026-06-27,P04,Telur Ayam 1 Papan,22
+2026-06-27,P05,Mie Instan 1 Dus,30
+2026-06-28,P01,Beras Premium 5kg,22
+2026-06-28,P02,Minyak Goreng 1L,18
+2026-06-28,P03,Gula Pasir 1kg,15
+2026-06-28,P04,Telur Ayam 1 Papan,26
+2026-06-28,P05,Mie Instan 1 Dus,29
+2026-06-29,P01,Beras Premium 5kg,18
+2026-06-29,P02,Minyak Goreng 1L,15
+2026-06-29,P03,Gula Pasir 1kg,12
+2026-06-29,P04,Telur Ayam 1 Papan,19
+2026-06-29,P05,Mie Instan 1 Dus,26
+2026-06-30,P01,Beras Premium 5kg,17
+2026-06-30,P02,Minyak Goreng 1L,15
+2026-06-30,P03,Gula Pasir 1kg,14
+2026-06-30,P04,Telur Ayam 1 Papan,19
+2026-06-30,P05,Mie Instan 1 Dus,28
+2026-07-01,P01,Beras Premium 5kg,19
+2026-07-01,P02,Minyak Goreng 1L,16
+2026-07-01,P03,Gula Pasir 1kg,14
+2026-07-01,P04,Telur Ayam 1 Papan,19
+2026-07-01,P05,Mie Instan 1 Dus,27
+2026-07-02,P01,Beras Premium 5kg,19
+2026-07-02,P02,Minyak Goreng 1L,17
+2026-07-02,P03,Gula Pasir 1kg,12
+2026-07-02,P04,Telur Ayam 1 Papan,22
+2026-07-02,P05,Mie Instan 1 Dus,29
+2026-07-03,P01,Beras Premium 5kg,19
+2026-07-03,P02,Minyak Goreng 1L,15
+2026-07-03,P03,Gula Pasir 1kg,12
+2026-07-03,P04,Telur Ayam 1 Papan,22
+2026-07-03,P05,Mie Instan 1 Dus,25
+2026-07-04,P01,Beras Premium 5kg,22
+2026-07-04,P02,Minyak Goreng 1L,17
+2026-07-04,P03,Gula Pasir 1kg,14
+2026-07-04,P04,Telur Ayam 1 Papan,23
+2026-07-04,P05,Mie Instan 1 Dus,32
+2026-07-05,P01,Beras Premium 5kg,21
+2026-07-05,P02,Minyak Goreng 1L,17
+2026-07-05,P03,Gula Pasir 1kg,15
+2026-07-05,P04,Telur Ayam 1 Papan,25
+2026-07-05,P05,Mie Instan 1 Dus,27
+2026-07-06,P01,Beras Premium 5kg,21
+2026-07-06,P02,Minyak Goreng 1L,17
+2026-07-06,P03,Gula Pasir 1kg,14
+2026-07-06,P04,Telur Ayam 1 Papan,23
+2026-07-06,P05,Mie Instan 1 Dus,28
+2026-07-07,P01,Beras Premium 5kg,20
+2026-07-07,P02,Minyak Goreng 1L,17
+2026-07-07,P03,Gula Pasir 1kg,14
+2026-07-07,P04,Telur Ayam 1 Papan,24
+2026-07-07,P05,Mie Instan 1 Dus,25
+2026-07-08,P01,Beras Premium 5kg,20
+2026-07-08,P02,Minyak Goreng 1L,14
+2026-07-08,P03,Gula Pasir 1kg,13
+2026-07-08,P04,Telur Ayam 1 Papan,23
+2026-07-08,P05,Mie Instan 1 Dus,28
+2026-07-09,P01,Beras Premium 5kg,18
+2026-07-09,P02,Minyak Goreng 1L,15
+2026-07-09,P03,Gula Pasir 1kg,13
+2026-07-09,P04,Telur Ayam 1 Papan,24
+2026-07-09,P05,Mie Instan 1 Dus,27
+2026-07-10,P01,Beras Premium 5kg,21
+2026-07-10,P02,Minyak Goreng 1L,14
+2026-07-10,P03,Gula Pasir 1kg,12
+2026-07-10,P04,Telur Ayam 1 Papan,19
+2026-07-10,P05,Mie Instan 1 Dus,23
+2026-07-11,P01,Beras Premium 5kg,24
+2026-07-11,P02,Minyak Goreng 1L,18
+2026-07-11,P03,Gula Pasir 1kg,13
+2026-07-11,P04,Telur Ayam 1 Papan,25
+2026-07-11,P05,Mie Instan 1 Dus,34
+2026-07-12,P01,Beras Premium 5kg,20
+2026-07-12,P02,Minyak Goreng 1L,17
+2026-07-12,P03,Gula Pasir 1kg,14
+2026-07-12,P04,Telur Ayam 1 Papan,23
+2026-07-12,P05,Mie Instan 1 Dus,27
+2026-07-13,P01,Beras Premium 5kg,18
+2026-07-13,P02,Minyak Goreng 1L,14
+2026-07-13,P03,Gula Pasir 1kg,11
+2026-07-13,P04,Telur Ayam 1 Papan,22
+2026-07-13,P05,Mie Instan 1 Dus,26
+2026-07-14,P01,Beras Premium 5kg,17
+2026-07-14,P02,Minyak Goreng 1L,16
+2026-07-14,P03,Gula Pasir 1kg,12
+2026-07-14,P04,Telur Ayam 1 Papan,20
+2026-07-14,P05,Mie Instan 1 Dus,25
+2026-07-15,P01,Beras Premium 5kg,17
+2026-07-15,P02,Minyak Goreng 1L,18
+2026-07-15,P03,Gula Pasir 1kg,13
+2026-07-15,P04,Telur Ayam 1 Papan,21
+2026-07-15,P05,Mie Instan 1 Dus,29
+2026-07-16,P01,Beras Premium 5kg,18
+2026-07-16,P02,Minyak Goreng 1L,16
+2026-07-16,P03,Gula Pasir 1kg,11
+2026-07-16,P04,Telur Ayam 1 Papan,21
+2026-07-16,P05,Mie Instan 1 Dus,25
+2026-07-17,P01,Beras Premium 5kg,19
+2026-07-17,P02,Minyak Goreng 1L,18
+2026-07-17,P03,Gula Pasir 1kg,12
+2026-07-17,P04,Telur Ayam 1 Papan,20
+2026-07-17,P05,Mie Instan 1 Dus,24
+2026-07-18,P01,Beras Premium 5kg,23
+2026-07-18,P02,Minyak Goreng 1L,20
+2026-07-18,P03,Gula Pasir 1kg,13
+2026-07-18,P04,Telur Ayam 1 Papan,22
+2026-07-18,P05,Mie Instan 1 Dus,30
+2026-07-19,P01,Beras Premium 5kg,22
+2026-07-19,P02,Minyak Goreng 1L,19
+2026-07-19,P03,Gula Pasir 1kg,15
+2026-07-19,P04,Telur Ayam 1 Papan,23
+2026-07-19,P05,Mie Instan 1 Dus,30
+2026-07-20,P01,Beras Premium 5kg,17
+2026-07-20,P02,Minyak Goreng 1L,15
+2026-07-20,P03,Gula Pasir 1kg,13
+2026-07-20,P04,Telur Ayam 1 Papan,20
+2026-07-20,P05,Mie Instan 1 Dus,24
+2026-07-21,P01,Beras Premium 5kg,18
+2026-07-21,P02,Minyak Goreng 1L,17
+2026-07-21,P03,Gula Pasir 1kg,13
+2026-07-21,P04,Telur Ayam 1 Papan,22
+2026-07-21,P05,Mie Instan 1 Dus,29
+2026-07-22,P01,Beras Premium 5kg,19
+2026-07-22,P02,Minyak Goreng 1L,15
+2026-07-22,P03,Gula Pasir 1kg,14
+2026-07-22,P04,Telur Ayam 1 Papan,23
+2026-07-22,P05,Mie Instan 1 Dus,26
+2026-07-23,P01,Beras Premium 5kg,19
+2026-07-23,P02,Minyak Goreng 1L,17
+2026-07-23,P03,Gula Pasir 1kg,13
+2026-07-23,P04,Telur Ayam 1 Papan,20
+2026-07-23,P05,Mie Instan 1 Dus,28
+2026-07-24,P01,Beras Premium 5kg,20
+2026-07-24,P02,Minyak Goreng 1L,16
+2026-07-24,P03,Gula Pasir 1kg,13
+2026-07-24,P04,Telur Ayam 1 Papan,23
+2026-07-24,P05,Mie Instan 1 Dus,26
+2026-07-25,P01,Beras Premium 5kg,22
+2026-07-25,P02,Minyak Goreng 1L,17
+2026-07-25,P03,Gula Pasir 1kg,16
+2026-07-25,P04,Telur Ayam 1 Papan,25
+2026-07-25,P05,Mie Instan 1 Dus,29
+2026-07-26,P01,Beras Premium 5kg,20
+2026-07-26,P02,Minyak Goreng 1L,19
+2026-07-26,P03,Gula Pasir 1kg,13
+2026-07-26,P04,Telur Ayam 1 Papan,22
+2026-07-26,P05,Mie Instan 1 Dus,32
+2026-07-27,P01,Beras Premium 5kg,18
+2026-07-27,P02,Minyak Goreng 1L,15
+2026-07-27,P03,Gula Pasir 1kg,14
+2026-07-27,P04,Telur Ayam 1 Papan,19
+2026-07-27,P05,Mie Instan 1 Dus,29
+2026-07-28,P01,Beras Premium 5kg,17
+2026-07-28,P02,Minyak Goreng 1L,17
+2026-07-28,P03,Gula Pasir 1kg,13
+2026-07-28,P04,Telur Ayam 1 Papan,22
+2026-07-28,P05,Mie Instan 1 Dus,27
+2026-07-29,P01,Beras Premium 5kg,19
+2026-07-29,P02,Minyak Goreng 1L,17
+2026-07-29,P03,Gula Pasir 1kg,14
+2026-07-29,P04,Telur Ayam 1 Papan,23
+2026-07-29,P05,Mie Instan 1 Dus,26
+2026-07-30,P01,Beras Premium 5kg,18
+2026-07-30,P02,Minyak Goreng 1L,14
+2026-07-30,P03,Gula Pasir 1kg,14
+2026-07-30,P04,Telur Ayam 1 Papan,19
+2026-07-30,P05,Mie Instan 1 Dus,25
+2026-07-31,P01,Beras Premium 5kg,18
+2026-07-31,P02,Minyak Goreng 1L,14
+2026-07-31,P03,Gula Pasir 1kg,14
+2026-07-31,P04,Telur Ayam 1 Papan,19
+2026-07-31,P05,Mie Instan 1 Dus,25
