@@ -1,0 +1,4 @@
+supplier_id,risk_score,risk_level,recommendation
+SUP-001,0.15,low,Supplier memiliki tingkat risiko keterlambatan rendah.
+SUP-002,0.65,high,Pertimbangkan supplier alternatif karena tingkat keterlambatan cukup tinggi.
+SUP-003,0.08,low,Supplier memiliki tingkat risiko keterlambatan rendah.
